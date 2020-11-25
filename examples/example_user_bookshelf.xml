@@ -1,0 +1,2352 @@
+b'
+<?xml version="1.0" encoding="UTF-8"?>\n
+<GoodreadsResponse>\n  
+	<Request>\n    
+		<authentication>true</authentication>\n      
+		<key><![CDATA[qcXIjujzhYVHOFU4SszgQ]]></key>\n    
+		<method><![CDATA[review_list]]></method>\n  
+	</Request>\n  \n  
+	<shelf exclusive=\'true\' id=\'389481028\' name=\'read\' sortable=\'false\'></shelf>\n\n
+	<reviews start="1" end="36" total="36">\n    
+		<review>\n  
+			<id>3536923657</id>\n    
+			<book>\n  
+				<id type="integer">43798285</id>\n  
+				<isbn>1982110562</isbn>\n  
+				<isbn13>9781982110567</isbn13>\n  
+				<text_reviews_count type="integer">11069</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.C3xsPtuFNgBAu1rjB5ZPeA</uri>\n  
+				<title>The Institute</title>\n  
+				<title_without_series>The Institute</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/43798285-the-institute</link>\n  
+				<num_pages>561</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information/>\n  
+				<publisher>Scribner</publisher>\n  
+				<publication_day>10</publication_day>\n  
+				<publication_year>2019</publication_year>\n  
+				<publication_month>9</publication_month>\n  
+				<average_rating>4.20</average_rating>\n  
+				<ratings_count>131457</ratings_count>\n  
+				<description>In the middle of the night, in a house on a quiet street in suburban Minneapolis, intruders silently murder Luke Ellis\xe2\x80\x99s parents and load him into a black SUV. The operation takes less than two minutes. Luke will wake up at The Institute, in a room that looks just like his own, except there\xe2\x80\x99s no window. And outside his door are other doors, behind which are other kids with special talents\xe2\x80\x94telekinesis and telepathy\xe2\x80\x94who got to this place the same way Luke did: Kalisha, Nick, George, Iris, and ten-year-old Avery Dixon. They are all in Front Half. Others, Luke learns, graduated to Back Half, \xe2\x80\x9clike the roach motel,\xe2\x80\x9d Kalisha says. \xe2\x80\x9cYou check in, but you don\xe2\x80\x99t check out.\xe2\x80\x9d&lt;br /&gt;&lt;br /&gt;In this most sinister of institutions, the director, Mrs. Sigsby, and her staff are ruthlessly dedicated to extracting from these children the force of their extranormal gifts. There are no scruples here. If you go along, you get tokens for the vending machines. If you don\xe2\x80\x99t, punishment is brutal. As each new victim disappears to Back Half, Luke becomes more and more desperate to get out and get help. But no one has ever escaped from the Institute.</description>\n
+				<authors>\n
+					<author>\n
+						<id>3389</id>\n
+						<name>Stephen King</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1362814142p5/3389.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1362814142p2/3389.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>\n
+						<average_rating>4.04</average_rating>\n
+						<ratings_count>14791333</ratings_count>\n
+						<text_reviews_count>592003</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2019</published>\n
+				<work><id>68147322</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.yUdKrcgT0-qDWni2z1k5Gw</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Mon Sep 07 13:30:11 -0700 2020</date_added>\n  
+			<date_updated>Mon Sep 07 13:30:16 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3536923657]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3536923657]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506022447</id>\n    
+			<book>\n  
+				<id type="integer">8130077</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">905</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.153J-Y1HpIanJQSscVtUtg</uri>\n  
+				<title>The Screwtape Letters</title>\n  
+				<title_without_series>The Screwtape Letters</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476379778l/8130077._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476379778l/8130077._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/8130077-the-screwtape-letters</link>\n  
+				<num_pages></num_pages>\n  
+				<format></format>\n  
+				<edition_information/>\n  
+				<publisher></publisher>\n  
+				<publication_day/>\n  
+				<publication_year/>\n  
+				<publication_month/>\n  
+				<average_rating>4.22</average_rating>\n  
+				<ratings_count>334604</ratings_count>\n  
+				<description>A masterpiece of satire, this classic has entertained and enlightened readers the world over with its sly and ironic portrayal of human life from the vantage point of Screwtape, a senior tempter in the service of "Our Father Below." At once wildly comic, deadly serious, and strikingly original, C. S. Lewis gives us the correspondence of the worldly-wise old devil to his nephew Wormwood, a novice demon in charge of securing the damnation of an ordinary young man. &lt;em&gt;The Screwtape Letters&lt;/em&gt; is the most engaging and humorous account of temptation\xe2\x80\x94and triumph over it\xe2\x80\x94ever written.&lt;br /&gt;&lt;br /&gt;Now, for the first time, &lt;em&gt;The Screwtape Letters&lt;/em&gt; is presented with its full text alongside helpful annotations provided by Lewis enthusiast and dramatist Paul McCusker. The notes include literary, theological, and biographical information to enhance Lewis\'s core themes and demystify complex ideas. McCusker also guides readers to concepts and references from the beloved author\'s other treasured volumes to deepen and enrich this timeless classic. The annotated edition is the ultimate guide for understanding the heavenly truths buried in these epistles from below.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1069006</id>\n
+						<name>C.S. Lewis</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1564671804p5/1069006.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1564671804p2/1069006.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>\n
+						<average_rating>4.15</average_rating>\n
+						<ratings_count>5971271</ratings_count>\n
+						<text_reviews_count>139174</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published/>\n
+				<work><id>2920952</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.U6gA1x_6dZXG0eWngFy8gg</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:26:07 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:26:08 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506022447]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506022447]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506015916</id>\n    
+			<book>\n  
+				<id type="integer">1618</id>\n  
+				<isbn>1400032717</isbn>\n  
+				<isbn13>9781400032716</isbn13>\n  
+				<text_reviews_count type="integer">37044</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.-HbDY4-Aoh2zmGKIXjEwKg</uri>\n  
+				<title>The Curious Incident of the Dog in the Night-Time</title>\n  
+				<title_without_series>The Curious Incident of the Dog in the Night-Time</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time</link>\n  
+				<num_pages>226</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>Vintage Contemporaries</edition_information>\n  
+				<publisher>Vintage</publisher>\n  
+				<publication_day>18</publication_day>\n  
+				<publication_year>2004</publication_year>\n  
+				<publication_month>5</publication_month>\n  
+				<average_rating>3.88</average_rating>\n  
+				<ratings_count>1198910</ratings_count>\n  
+				<description>Christopher John Francis Boone knows all the countries of the world and their capitals and every prime number up to 7,057. He relates well to animals but has no understanding of human emotions. He cannot stand to be touched. And he detests the color yellow.&lt;br /&gt;&lt;br /&gt;Although gifted with a superbly logical brain, for fifteen-year-old Christopher everyday interactions and admonishments have little meaning. He lives on patterns, rules, and a diagram kept in his pocket. Then one day, a neighbor\'s dog, Wellington, is killed and his carefully constructive universe is threatened. Christopher sets out to solve the murder in the style of his favourite (logical) detective, Sherlock Holmes. What follows makes for a novel that is funny, poignant and fascinating in its portrayal of a person whose curse and blessing are a mind that perceives the world entirely literally.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1050</id>\n
+						<name>Mark Haddon</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1337988298p5/1050.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1337988298p2/1050.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1050.Mark_Haddon]]></link>\n
+						<average_rating>3.86</average_rating>\n
+						<ratings_count>1263582</ratings_count>\n
+						<text_reviews_count>52504</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2004</published>\n
+				<work><id>4259809</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.8XQyL2-mXgV1VRh3euWYmw</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:21:09 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:21:09 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506015916]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506015916]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506015822</id>\n    
+			<book>\n  
+				<id type="integer">19063</id>\n  
+				<isbn>0375831002</isbn>\n  
+				<isbn13>9780375831003</isbn13>\n  
+				<text_reviews_count type="integer">90744</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.A1zfLKejdNPkLkjfE8LN8Q</uri>\n  
+				<title>The Book Thief</title>\n  
+				<title_without_series>The Book Thief</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/19063.The_Book_Thief</link>\n  
+				<num_pages>552</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information>First American Edition</edition_information>\n  
+				<publisher>Alfred A. Knopf</publisher>\n  
+				<publication_day>14</publication_day>\n  
+				<publication_year>2006</publication_year>\n  
+				<publication_month>3</publication_month>\n  
+				<average_rating>4.37</average_rating>\n  
+				<ratings_count>1848028</ratings_count>\n  
+				<description>&lt;i&gt;Librarian\'s note: An alternate cover edition can be found &lt;a href="https://www.goodreads.com/book/show/41048862.here" title="here" rel="nofollow noopener"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.&lt;br /&gt;&lt;br /&gt;By her brother\'s graveside, Liesel\'s life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger\'s Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor\'s wife\'s library, wherever there are books to be found.&lt;br /&gt;&lt;br /&gt;But these are dangerous times. When Liesel\'s foster family hides a Jew in their basement, Liesel\'s world is both opened up, and closed down.&lt;br /&gt;&lt;br /&gt;In superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.&lt;br /&gt;&lt;br /&gt;(Note: this title was not published as YA fiction)</description>\n
+				<authors>\n
+					<author>\n
+						<id>11466</id>\n
+						<name>Markus Zusak</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1537240528p5/11466.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1537240528p2/11466.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/11466.Markus_Zusak]]></link>\n
+						<average_rating>4.34</average_rating>\n
+						<ratings_count>2033173</ratings_count>\n
+						<text_reviews_count>134940</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2006</published>\n
+				<work><id>878368</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.BGVqmVn5CPHsjnZIfHpUUw</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:21:05 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:21:06 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506015822]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506015822]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506015710</id>\n    
+			<book>\n  
+				<id type="integer">4214</id>\n  
+				<isbn>0770430074</isbn>\n  
+				<isbn13>9780770430078</isbn13>\n  
+				<text_reviews_count type="integer">36482</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.xDVbF6l_LTfMdTx3ajT_qQ</uri>\n  
+				<title>Life of Pi</title>\n  
+				<title_without_series>Life of Pi</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320562005l/4214._SY160_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320562005l/4214._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/4214.Life_of_Pi</link>\n  
+				<num_pages>460</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Seal Books</publisher>\n  
+				<publication_day>29</publication_day>\n  
+				<publication_year>2006</publication_year>\n  
+				<publication_month>8</publication_month>\n  
+				<average_rating>3.91</average_rating>\n  
+				<ratings_count>1346626</ratings_count>\n  
+				<description>Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor "Pi" Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.</description>\n
+				<authors>\n
+					<author>\n
+						<id>811</id>\n
+						<name>Yann Martel</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1454012903p5/811.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1454012903p2/811.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/811.Yann_Martel]]></link>\n
+						<average_rating>3.90</average_rating>\n
+						<ratings_count>1390100</ratings_count>\n
+						<text_reviews_count>53926</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2006</published>\n
+				<work><id>1392700</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.vYNXZX_u0VOh1yVtejF_Xg</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:20:59 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:21:00 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506015710]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506015710]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506015414</id>\n    
+			<book>\n  
+				<id type="integer">77203</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">62591</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.MWUnRrF53g-EZGOr9DVo5w</uri>\n  
+				<title>The Kite Runner</title>\n  
+				<title_without_series>The Kite Runner</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753l/77203._SY160_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753l/77203._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/77203.The_Kite_Runner</link>\n  
+				<num_pages>371</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>First Riverhead trade paperback edition: May 2004</edition_information>\n  
+				<publisher>Riverhead Books</publisher>\n  
+				<publication_day/>\n  
+				<publication_year>2004</publication_year>\n  
+				<publication_month>5</publication_month>\n  
+				<average_rating>4.30</average_rating>\n  
+				<ratings_count>2440279</ratings_count>\n  
+				<description>The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father\xe2\x80\x99s servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed. It is about the power of reading, the price of betrayal, and the possibility of redemption; and an exploration of the power of fathers over sons\xe2\x80\x94their love, their sacrifices, their lies.&lt;br /&gt;&lt;br /&gt;A sweeping story of family, love, and friendship told against the devastating backdrop of the history of Afghanistan over the last thirty years, The Kite Runner is an unusual and powerful novel that has become a beloved, one-of-a-kind classic.&lt;br /&gt;--khaledhosseini.com</description>\n
+				<authors>\n
+					<author>\n
+						<id>569</id>\n
+						<name>Khaled Hosseini</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1359753468p5/569.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1359753468p2/569.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>\n
+						<average_rating>4.30</average_rating>\n
+						<ratings_count>3993900</ratings_count>\n
+						<text_reviews_count>164410</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2004</published>\n
+				<work><id>3295919</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.wTV5JWg60ACxu3rB_OQEdQ</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:20:47 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:20:48 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506015414]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506015414]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506015250</id>\n    
+			<book>\n  
+				<id type="integer">3228917</id>\n  
+				<isbn>0316017922</isbn>\n  
+				<isbn13>9780316017923</isbn13>\n  
+				<text_reviews_count type="integer">23691</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.nIiVEJt3GaY4eF_wwWwvVw</uri>\n  
+				<title>Outliers: The Story of Success</title>\n  
+				<title_without_series>Outliers: The Story of Success</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/3228917-outliers</link>\n  
+				<num_pages>309</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information/>\n  
+				<publisher>Little, Brown and Company</publisher>\n  
+				<publication_day>18</publication_day>\n  
+				<publication_year>2008</publication_year>\n  
+				<publication_month>11</publication_month>\n  
+				<average_rating>4.16</average_rating>\n  
+				<ratings_count>562865</ratings_count>\n  
+				<description>In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of "outliers"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?&lt;br /&gt;&lt;br /&gt;His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1439</id>\n
+						<name>Malcolm Gladwell</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>\n
+						<average_rating>4.01</average_rating>\n
+						<ratings_count>2148543</ratings_count>\n
+						<text_reviews_count>84830</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2008</published>\n
+				<work><id>3364437</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.AiSrCsUeSMMsC_IUy2R8Cg</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:20:39 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:20:40 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506015250]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506015250]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506015000</id>\n    
+			<book>\n  
+				<id type="integer">2612</id>\n  
+				<isbn>0316346624</isbn>\n  
+				<isbn13>9780316346627</isbn13>\n  
+				<text_reviews_count type="integer">12651</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.rp_Fr01MGufpLcY9Yi8KIg</uri>\n  
+				<title>The Tipping Point: How Little Things Can Make a Big Difference</title>\n  
+				<title_without_series>The Tipping Point: How Little Things Can Make a Big Difference</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/2612.The_Tipping_Point</link>\n  
+				<num_pages>301</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Back Bay Books</publisher>\n  
+				<publication_day>7</publication_day>\n  
+				<publication_year>2002</publication_year>\n  
+				<publication_month>1</publication_month>\n  
+				<average_rating>3.97</average_rating>\n  
+				<ratings_count>693977</ratings_count>\n  
+				<description>&lt;i&gt;An alternate cover edition exists &lt;a href="https://www.goodreads.com/book/show/34668905.here" title="here" rel="nofollow noopener"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.&lt;br /&gt;&lt;br /&gt;Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children\'s television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world\'s greatest salesmen to show how to start and sustain social epidemics.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1439</id>\n
+						<name>Malcolm Gladwell</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>\n
+						<average_rating>4.01</average_rating>\n
+						<ratings_count>2148543</ratings_count>\n
+						<text_reviews_count>84830</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2002</published>\n
+				<work><id>2124255</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.0gldOhtTZsFxGayFbXajCQ</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:20:28 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:20:29 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506015000]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506015000]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3506014881</id>\n    
+			<book>\n  
+				<id type="integer">1202</id>\n  
+				<isbn>0061234001</isbn>\n  
+				<isbn13>9780061234002</isbn13>\n  
+				<text_reviews_count type="integer">13643</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.R8VMmLFFJXIjZVkSrYZAug</uri>\n  
+				<title>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</title>\n  
+				<title_without_series>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/1202.Freakonomics</link>\n  
+				<num_pages>320</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information>Revised and Expanded Edition (US/CAN)</edition_information>\n  
+				<publisher>William Morrow</publisher>\n  
+				<publication_day>17</publication_day>\n  
+				<publication_year>2006</publication_year>\n  
+				<publication_month>10</publication_month>\n  
+				<average_rating>3.98</average_rating>\n  
+				<ratings_count>713843</ratings_count>\n  
+				<description>Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents really matter? What kind of impact did Roe v. Wade have on violent crime? Freakonomics will literally redefine the way we view the modern world.&lt;br /&gt;&lt;br /&gt;These may not sound like typical questions for an economist to ask. But Steven D. Levitt is not a typical economist. He is a much heralded scholar who studies the stuff and riddles of everyday life -- from cheating and crime to sports and child rearing -- and whose conclusions regularly turn the conventional wisdom on its head. He usually begins with a mountain of data and a simple, unasked question. Some of these questions concern life-and-death issues; others have an admittedly freakish quality. Thus the new field of study contained in this book: freakonomics.&lt;br /&gt;&lt;br /&gt;Through forceful storytelling and wry insight, Levitt and co-author Stephen J. Dubner show that economics is, at root, the study of incentives -- how people get what they want, or need, especially when other people want or need the same thing. In Freakonomics, they set out to explore the hidden side of ... well, everything. The inner workings of a crack gang. The truth about real-estate agents. The myths of campaign finance. The telltale marks of a cheating schoolteacher. The secrets of the Ku Klux Klan.&lt;br /&gt;&lt;br /&gt;What unites all these stories is a belief that the modern world, despite a surfeit of obfuscation, complication, and downright deceit, is not impenetrable, is not unknowable, and -- if the right questions are asked -- is even more intriguing than we think. All it takes is a new way of looking. Steven Levitt, through devilishly clever and clear-eyed thinking, shows how to see through all the clutter.&lt;br /&gt;&lt;br /&gt;Freakonomics establishes this unconventional premise: If morality represents how we would like the world to work, then economics represents how it actually does work. It is true that readers of this book will be armed with enough riddles and stories to last a thousand cocktail parties. But Freakonomics can provide more than that. It will literally redefine the way we view the modern world.&lt;br /&gt;(front flap)</description>\n
+				<authors>\n
+					<author>\n
+						<id>798</id>\n
+						<name>Steven D. Levitt</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1215370905p5/798.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1215370905p2/798.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/798.Steven_D_Levitt]]></link>\n
+						<average_rating>3.97</average_rating>\n
+						<ratings_count>896575</ratings_count>\n
+						<text_reviews_count>25532</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2006</published>\n
+				<work><id>5397</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.U-RYDH4VS6Lp0ghiF96-sQ</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 09:20:23 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 09:20:23 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3506014881]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3506014881]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505951822</id>\n    
+			<book>\n  
+				<id type="integer">23692271</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">26786</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.4aaEOknMj7166lgef5EmXw</uri>\n  
+				<title>Sapiens: A Brief History of Humankind</title>\n  
+				<title_without_series>Sapiens: A Brief History of Humankind</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/23692271-sapiens</link>\n  
+				<num_pages>498</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Harvill Secker</publisher>\n  
+				<publication_day/>\n  
+				<publication_year>2014</publication_year>\n  
+				<publication_month/>\n  
+				<average_rating>4.41</average_rating>\n  
+				<ratings_count>516076</ratings_count>\n  
+				<description>100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. &lt;br /&gt;&lt;br /&gt;How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? &lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Sapiens&lt;/i&gt;, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical \xe2\x80\x93 and sometimes devastating \xe2\x80\x93 breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? &lt;br /&gt;&lt;br /&gt;Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.</description>\n
+				<authors>\n
+					<author>\n
+						<id>395812</id>\n
+						<name>Yuval Noah Harari</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1546235045p5/395812.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1546235045p2/395812.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari]]></link>\n
+						<average_rating>4.35</average_rating>\n
+						<ratings_count>761652</ratings_count>\n
+						<text_reviews_count>52579</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2014</published>\n
+				<work><id>18962767</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.wrue7885k_mhTCRSy0O0VQ</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:33:34 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:33:35 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505951822]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505951822]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505949808</id>\n    
+			<book>\n  
+				<id type="integer">1617</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">27047</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.Xf0a6WGNQ9YRBJUz7000uQ</uri>\n  
+				<title>Night  (The Night Trilogy, #1)</title>\n  
+				<title_without_series>Night</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575073611l/1617._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575073611l/1617._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/1617.Night</link>\n  
+				<num_pages>115</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Hill &amp; Wang</publisher>\n  
+				<publication_day>16</publication_day>\n  
+				<publication_year>2006</publication_year>\n  
+				<publication_month>1</publication_month>\n  
+				<average_rating>4.34</average_rating>\n  
+				<ratings_count>976044</ratings_count>\n  
+				<description>Born in the town of Sighet, Transylvania, Elie Wiesel was a teenager when he and his family were taken from their home in 1944 to Auschwitz concentration camp, and then to Buchenwald. &lt;i&gt;Night&lt;/i&gt; is the terrifying record of Elie Wiesel\'s memories of the death of his family, the death of his own innocence, and his despair as a deeply observant Jew confronting the absolute evil of man. This new translation by his wife and most frequent translator, Marion Wiesel, corrects important details and presents the most accurate rendering in English of Elie Wiesel\'s testimony to what happened in the camps and of his unforgettable message that this horror must simply never be allowed to happen again.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1049</id>\n
+						<name>Elie Wiesel</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>\n
+						<average_rating>4.32</average_rating>\n
+						<ratings_count>1028981</ratings_count>\n
+						<text_reviews_count>34031</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2006</published>\n
+				<work><id>265616</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.m3fVRZa9mdtTo1Zys7ZiHg</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:32:03 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:32:04 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505949808]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505949808]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505949573</id>\n    
+			<book>\n  
+				<id type="integer">35167685</id>\n  
+				<isbn>0393355624</isbn>\n  
+				<isbn13>9780393355628</isbn13>\n  
+				<text_reviews_count type="integer">980</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.s-xQrV6yyX_suirVo1ixpg</uri>\n  
+				<title>"Surely You\'re Joking, Mr. Feynman!": Adventures of a Curious Character</title>\n  
+				<title_without_series>"Surely You\'re Joking, Mr. Feynman!": Adventures of a Curious Character</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504936953l/35167685._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504936953l/35167685._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman</link>\n  
+				<num_pages>400</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>W. W. Norton  Company</publisher>\n  
+				<publication_day>6</publication_day>\n  
+				<publication_year>2018</publication_year>\n  
+				<publication_month>2</publication_month>\n  
+				<average_rating>4.27</average_rating>\n  
+				<ratings_count>158706</ratings_count>\n  
+				<description>&lt;p&gt;A &lt;em&gt;New York Times&lt;/em&gt; bestseller\xe2\x80\x94the outrageous exploits of one of this century\'s greatest scientific minds and a legendary American original.&lt;/p&gt;&lt;br /&gt;Richard Feynman, winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; accompanying a ballet on his bongo drums; painting a naked female toreador. In short, here is Feynman\'s life in all its eccentric\xe2\x80\x94a combustible mixture of high intelligence, unlimited curiosity, and raging chutzpah.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1429989</id>\n
+						<name>Richard P. Feynman</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1498916887p5/1429989.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1498916887p2/1429989.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1429989.Richard_P_Feynman]]></link>\n
+						<average_rating>4.25</average_rating>\n
+						<ratings_count>292304</ratings_count>\n
+						<text_reviews_count>10635</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2018</published>\n
+				<work><id>321174</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1._hAxjQnogAnVL4MRNxPphg</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:31:53 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:31:53 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505949573]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505949573]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505949293</id>\n    
+			<book>\n  
+				<id type="integer">6493208</id>\n  
+				<isbn>1400052173</isbn>\n  
+				<isbn13>9781400052172</isbn13>\n  
+				<text_reviews_count type="integer">30338</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1._7-9Y5M5fK8bUSkjHjFNqQ</uri>\n  
+				<title>The Immortal Life of Henrietta Lacks</title>\n  
+				<title_without_series>The Immortal Life of Henrietta Lacks</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks</link>\n  
+				<num_pages>370</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information/>\n  
+				<publisher>Crown Publishing Group</publisher>\n  
+				<publication_day>2</publication_day>\n  
+				<publication_year>2010</publication_year>\n  
+				<publication_month>2</publication_month>\n  
+				<average_rating>4.07</average_rating>\n  
+				<ratings_count>592106</ratings_count>\n  
+				<description>Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor Southern tobacco farmer who worked the same land as her slave ancestors, yet her cells\xe2\x80\x94taken without her knowledge\xe2\x80\x94became one of the most important tools in medicine. The first \xe2\x80\x9cimmortal\xe2\x80\x9d human cells grown in culture, they are still alive today, though she has been dead for more than sixty years. If you could pile all HeLa cells ever grown onto a scale, they\xe2\x80\x99d weigh more than 50 million metric tons\xe2\x80\x94as much as a hundred Empire State Buildings. HeLa cells were vital for developing the polio vaccine; uncovered secrets of cancer, viruses, and the atom bomb\xe2\x80\x99s effects; helped lead to important advances like in vitro fertilization, cloning, and gene mapping; and have been bought and sold by the billions.&lt;p&gt;Yet Henrietta Lacks remains virtually unknown, buried in an unmarked grave.&lt;/p&gt;&lt;p&gt;Now Rebecca Skloot takes us on an extraordinary journey, from the \xe2\x80\x9ccolored\xe2\x80\x9d ward of Johns Hopkins Hospital in the 1950s to stark white laboratories with freezers full of HeLa cells; from Henrietta\xe2\x80\x99s small, dying hometown of Clover, Virginia \xe2\x80\x94 a land of wooden slave quarters, faith healings, and voodoo \xe2\x80\x94 to East Baltimore today, where her children and grandchildren live and struggle with the legacy of her cells.&lt;/p&gt;&lt;p&gt;Henrietta\xe2\x80\x99s family did not learn of her \xe2\x80\x9cimmortality\xe2\x80\x9d until more than twenty years after her death, when scientists investigating HeLa began using her husband and children in research without informed consent. And though the cells had launched a multimillion-dollar industry that sells human biological materials, her family never saw any of the profits. As Rebecca Skloot so brilliantly shows, the story of the Lacks family \xe2\x80\x94 past and present \xe2\x80\x94 is inextricably connected to the dark history of experimentation on African Americans, the birth of bioethics, and the legal battles over whether we control the stuff we are made of.&lt;/p&gt;&lt;p&gt;Over the decade it took to uncover this story, Rebecca became enmeshed in the lives of the Lacks family\xe2\x80\x94especially Henrietta\xe2\x80\x99s daughter Deborah, who was devastated to learn about her mother\xe2\x80\x99s cells. She was consumed with questions: Had scientists cloned her mother? Did it hurt her when researchers infected her cells with viruses and shot them into space? What happened to her sister, Elsie, who died in a mental institution at the age of fifteen? And if her mother was so important to medicine, why couldn\xe2\x80\x99t her children afford health insurance?&lt;/p&gt;&lt;p&gt;Intimate in feeling, astonishing in scope, and impossible to put down, &lt;i&gt;The Immortal Life of Henrietta Lacks&lt;/i&gt; captures the beauty and drama of scientific discovery, as well as its human consequences.&lt;/p&gt;</description>\n
+				<authors>\n
+					<author>\n
+						<id>2940640</id>\n
+						<name>Rebecca Skloot</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1291156030p5/2940640.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1291156030p2/2940640.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/2940640.Rebecca_Skloot]]></link>\n
+						<average_rating>4.07</average_rating>\n
+						<ratings_count>593666</ratings_count>\n
+						<text_reviews_count>34916</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2010</published>\n
+				<work><id>6684634</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.7GCC_sT0t36kTkJalDCj5w</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:31:42 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:31:43 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505949293]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505949293]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505949054</id>\n    
+			<book>\n  
+				<id type="integer">29780253</id>\n  
+				<isbn>0385689225</isbn>\n  
+				<isbn13>9780385689229</isbn13>\n  
+				<text_reviews_count type="integer">30043</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.VGbAzZ0ZqITX1gPOzrjdFw</uri>\n  
+				<title>Born a Crime: Stories From a South African Childhood</title>\n  
+				<title_without_series>Born a Crime: Stories From a South African Childhood</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/29780253-born-a-crime</link>\n  
+				<num_pages>289</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information/>\n  
+				<publisher>Doubleday Canada</publisher>\n  
+				<publication_day>15</publication_day>\n  
+				<publication_year>2016</publication_year>\n  
+				<publication_month>11</publication_month>\n  
+				<average_rating>4.45</average_rating>\n  
+				<ratings_count>398149</ratings_count>\n  
+				<description>The memoir of one man\xe2\x80\x99s coming-of-age, set during the twilight of apartheid and the tumultuous days of freedom that followed.&lt;br /&gt; &lt;br /&gt;Trevor Noah\xe2\x80\x99s unlikely path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Trevor was born to a white Swiss father and a black Xhosa mother at a time when such a union was punishable by five years in prison. Living proof of his parents\xe2\x80\x99 indiscretion, Trevor was kept mostly indoors for the earliest years of his life, bound by the extreme and often absurd measures his mother took to hide him from a government that could, at any moment, steal him away. Finally liberated by the end of South Africa\xe2\x80\x99s tyrannical white rule, Trevor and his mother set forth on a grand adventure, living openly and freely and embracing the opportunities won by a centuries-long struggle.&lt;br /&gt; &lt;br /&gt;&lt;i&gt;Born a Crime&lt;/i&gt; is the story of a mischievous young boy who grows into a restless young man as he struggles to find himself in a world where he was never supposed to exist. It is also the story of that young man\xe2\x80\x99s relationship with his fearless, rebellious, and fervently religious mother\xe2\x80\x94his teammate, a woman determined to save her son from the cycle of poverty, violence, and abuse that would ultimately threaten her own life.</description>\n
+				<authors>\n
+					<author>\n
+						<id>15149526</id>\n
+						<name>Trevor Noah</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1555600819p5/15149526.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1555600819p2/15149526.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/15149526.Trevor_Noah]]></link>\n
+						<average_rating>4.45</average_rating>\n
+						<ratings_count>401520</ratings_count>\n
+						<text_reviews_count>37286</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2016</published>\n
+				<work><id>50150838</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.YZHllEcWimlNO4N7eHsM3g</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:31:33 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:31:34 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505949054]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505949054]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505948938</id>\n    
+			<book>\n  
+				<id type="integer">35133922</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">57451</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.14HR980_cmpVGQr1xcdEsA</uri>\n  
+				<title>Educated</title>\n  
+				<title_without_series>Educated</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/35133922-educated</link>\n  
+				<num_pages>334</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information/>\n  
+				<publisher>Random House</publisher>\n  
+				<publication_day>20</publication_day>\n  
+				<publication_year>2018</publication_year>\n  
+				<publication_month>2</publication_month>\n  
+				<average_rating>4.46</average_rating>\n  
+				<ratings_count>815265</ratings_count>\n  
+				<description>Tara Westover was 17 the first time she set foot in a classroom. Born to survivalists in the mountains of Idaho, she prepared for the end of the world by stockpiling home-canned peaches and sleeping with her "head-for-the-hills bag". In the summer she stewed herbs for her mother, a midwife and healer, and in the winter she salvaged in her father\'s junkyard.&lt;br /&gt;&lt;br /&gt;Her father forbade hospitals, so Tara never saw a doctor or nurse. Gashes and concussions, even burns from explosions, were all treated at home with herbalism. The family was so isolated from mainstream society that there was no one to ensure the children received an education and no one to intervene when one of Tara\'s older brothers became violent.&lt;br /&gt;&lt;br /&gt;Then, lacking any formal education, Tara began to educate herself. She taught herself enough mathematics and grammar to be admitted to Brigham Young University, where she studied history, learning for the first time about important world events like the Holocaust and the civil rights movement. Her quest for knowledge transformed her, taking her over oceans and across continents, to Harvard and to Cambridge. Only then would she wonder if she\'d traveled too far, if there was still a way home.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Educated&lt;/em&gt; is an account of the struggle for self-invention. It is a tale of fierce family loyalty and of the grief that comes with severing the closest of ties. With the acute insight that distinguishes all great writers, Westover has crafted a universal coming-of-age story that gets to the heart of what an education is and what it offers: the perspective to see one\'s life through new eyes and the will to change it.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Librarian\'s note: An alternate cover edition can be found &lt;a href="https://www.goodreads.com/book/show/54756641.here" title="here" rel="nofollow noopener"&gt;here&lt;/a&gt;&lt;/i&gt;</description>\n
+				<authors>\n
+					<author>\n
+						<id>16121977</id>\n
+						<name>Tara Westover</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1506103019p5/16121977.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1506103019p2/16121977.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/16121977.Tara_Westover]]></link>\n
+						<average_rating>4.46</average_rating>\n
+						<ratings_count>815834</ratings_count>\n
+						<text_reviews_count>69954</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2018</published>\n
+				<work><id>53814228</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.m9wJkXRO9ATRt1X2ny_DUg</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:31:28 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:31:29 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505948938]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505948938]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505948894</id>\n    
+			<book>\n  
+				<id type="integer">8664353</id>\n  
+				<isbn>1400064163</isbn>\n  
+				<isbn13>9781400064168</isbn13>\n  
+				<text_reviews_count type="integer">42750</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.r3iGR_0dtuTgK7N-tPR4Ww</uri>\n  
+				<title>Unbroken: A World War II Story of Survival, Resilience and Redemption</title>\n  
+				<title_without_series>Unbroken: A World War II Story of Survival, Resilience and Redemption</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327861115l/8664353._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327861115l/8664353._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/8664353-unbroken</link>\n  
+				<num_pages>492</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information/>\n  
+				<publisher>Random House</publisher>\n  
+				<publication_day>16</publication_day>\n  
+				<publication_year>2010</publication_year>\n  
+				<publication_month>11</publication_month>\n  
+				<average_rating>4.36</average_rating>\n  
+				<ratings_count>773273</ratings_count>\n  
+				<description>&lt;b&gt;\n  &lt;blockquote&gt;In her long-awaited new book, Laura Hillenbrand writes with the same rich and vivid narrative voice she displayed in &lt;i&gt;&lt;a href="https://www.goodreads.com/book/show/546489.Seabiscuit" title="Seabiscuit" rel="nofollow noopener"&gt;Seabiscuit&lt;/a&gt;&lt;/i&gt;. Telling an unforgettable story of a man\'s journey into extremity, Unbroken is a testament to the resilience of the human mind, body, and spirit.&lt;/blockquote&gt;\n&lt;/b&gt;On a May afternoon in 1943, an Army Air Forces bomber crashed into the Pacific Ocean and disappeared, leaving only a spray of debris and a slick of oil, gasoline, and blood. Then, on the ocean surface, a face appeared. It was that of a young lieutenant, the plane\'s bombardier, who was struggling to a life raft and pulling himself aboard. So began one of the most extraordinary odysseys of the Second World War.&lt;p&gt;The lieutenant\xe2\x80\x99s name was Louis Zamperini. In boyhood, he\'d been a cunning and incorrigible delinquent, breaking into houses, brawling, and fleeing his home to ride the rails. As a teenager, he had channeled his defiance into running, discovering a prodigious talent that had carried him to the Berlin Olympics and within sight of the four-minute mile. But when war had come, the athlete had become an airman, embarking on a journey that led to his doomed flight, a tiny raft, and a drift into the unknown.&lt;/p&gt;&lt;p&gt;Ahead of Zamperini lay thousands of miles of open ocean, leaping sharks, a foundering raft, thirst and starvation, enemy aircraft, and, beyond, a trial even greater. Driven to the limits of endurance, Zamperini would answer desperation with ingenuity; suffering with hope, resolve, and humor; brutality with rebellion. His fate, whether triumph or tragedy, would be suspended on the fraying wire of his will.&lt;/p&gt;</description>\n
+				<authors>\n
+					<author>\n
+						<id>30913</id>\n
+						<name>Laura Hillenbrand</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1381983639p5/30913.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1381983639p2/30913.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/30913.Laura_Hillenbrand]]></link>\n
+						<average_rating>4.34</average_rating>\n
+						<ratings_count>924007</ratings_count>\n
+						<text_reviews_count>51370</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2010</published>\n
+				<work><id>12946965</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.LYcIkUGGjow01nz-GDdjNw</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:31:27 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:31:28 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505948894]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505948894]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505947934</id>\n    
+			<book>\n  
+				<id type="integer">18045891</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">17119</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.HIDUdJOnLVGuLsKjNncuxw</uri>\n  
+				<title>Sharp Objects</title>\n  
+				<title_without_series>Sharp Objects</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475695315l/18045891._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475695315l/18045891._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/18045891-sharp-objects</link>\n  
+				<num_pages>254</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Broadway Paperbacks</publisher>\n  
+				<publication_day/>\n  
+				<publication_year>2006</publication_year>\n  
+				<publication_month/>\n  
+				<average_rating>3.98</average_rating>\n  
+				<ratings_count>685719</ratings_count>\n  
+				<description>Fresh from a brief stay at a psych hospital, reporter Camille Preaker faces a troubling assignment: she must return to her tiny hometown to cover the unsolved murder of a preteen girl and the disappearance of another. For years, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed in her old bedroom in her family\'s Victorian mansion, Camille finds herself identifying with the young victims\xe2\x80\x94a bit too strongly. Dogged by her own demons, she must unravel the psychological puzzle of her own past if she wants to get the story\xe2\x80\x94and survive this homecoming.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Librarian\'s Note: this is an alternate cover edition - ISBN 10: 0307341550 (ISBN 13: 9780307341556)&lt;/i&gt;</description>\n
+				<authors>\n
+					<author>\n
+						<id>2383</id>\n
+						<name>Gillian Flynn</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>\n
+						<average_rating>4.03</average_rating>\n
+						<ratings_count>3897306</ratings_count>\n
+						<text_reviews_count>242888</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2006</published>\n
+				<work><id>3801</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.15vJ5P9_AgO2fiAYgmPrVQ</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:30:47 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:30:48 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505947934]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505947934]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505947789</id>\n    
+			<book>\n  
+				<id type="integer">19288043</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">29939</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.hMn5n6jrUjkoQowRb4-yqw</uri>\n  
+				<title>Gone Girl</title>\n  
+				<title_without_series>Gone Girl</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/19288043-gone-girl</link>\n  
+				<num_pages>415</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Broadway Books</publisher>\n  
+				<publication_day>22</publication_day>\n  
+				<publication_year>2014</publication_year>\n  
+				<publication_month>4</publication_month>\n  
+				<average_rating>4.08</average_rating>\n  
+				<ratings_count>2344519</ratings_count>\n  
+				<description>Marriage can be a real killer.&lt;br /&gt;&lt;br /&gt;On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne\xe2\x80\x99s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick\xe2\x80\x99s clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn\xe2\x80\x99t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife\xe2\x80\x99s head, but passages from Amy\'s diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media\xe2\x80\x94as well as Amy\xe2\x80\x99s fiercely doting parents\xe2\x80\x94the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he\xe2\x80\x99s definitely bitter\xe2\x80\x94but is he really a killer?&lt;br /&gt;&lt;br /&gt;As the cops close in, every couple in town is soon wondering how well they know the one that they love. With his twin sister, Margo, at his side, Nick stands by his innocence. Trouble is, if Nick didn\xe2\x80\x99t do it, where is that beautiful wife? And what was in that silvery gift box hidden in the back of her bedroom closet?&lt;br /&gt;&lt;br /&gt;With her razor-sharp writing and trademark psychological insight, Gillian Flynn delivers a fast-paced, devilishly dark, and ingeniously plotted thriller that confirms her status as one of the hottest writers around.&lt;br /&gt;&lt;br /&gt;One of the most critically acclaimed suspense writers of our time, New York Times bestseller Gillian Flynn takes that statement to its darkest place in this unputdownable masterpiece about a marriage gone terribly, terribly wrong. The Chicago Tribune proclaimed that her work \xe2\x80\x9cdraws you in and keeps you reading with the force of a pure but nasty addiction.\xe2\x80\x9d Gone Girl\xe2\x80\x99s toxic mix of sharp-edged wit and deliciously chilling prose creates a nerve-fraying thriller that confounds you at every turn.&lt;br /&gt;&lt;br /&gt;Source: gillian-flynn.com</description>\n
+				<authors>\n
+					<author>\n
+						<id>2383</id>\n
+						<name>Gillian Flynn</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>\n
+						<average_rating>4.03</average_rating>\n
+						<ratings_count>3897306</ratings_count>\n
+						<text_reviews_count>242888</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2014</published>\n
+				<work><id>13306276</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.t8-NZJ8l4PHhZRkiKjYdtg</uri>\n
+				</work></book>\n\n\n  
+			<rating>0</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:30:42 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:30:42 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505947789]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505947789]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505947092</id>\n    
+			<book>\n  
+				<id type="integer">2429135</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">52541</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.0R0cZNlMB9R-o9BECflUaA</uri>\n  
+				<title>The Girl with the Dragon Tattoo (Millennium, #1)</title>\n  
+				<title_without_series>The Girl with the Dragon Tattoo</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo</link>\n  
+				<num_pages>465</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information>1st edition</edition_information>\n  
+				<publisher>Knopf</publisher>\n  
+				<publication_day>16</publication_day>\n  
+				<publication_year>2008</publication_year>\n  
+				<publication_month>9</publication_month>\n  
+				<average_rating>4.14</average_rating>\n  
+				<ratings_count>2622247</ratings_count>\n  
+				<description>Harriet Vanger, a scion of one of Sweden\xe2\x80\x99s wealthiest families disappeared over forty years ago. All these years later, her aged uncle continues to seek the truth. He hires Mikael Blomkvist, a crusading journalist recently trapped by a libel conviction, to investigate. He is aided by the pierced and tattooed punk prodigy Lisbeth Salander. Together they tap into a vein of unfathomable iniquity and astonishing corruption.&lt;br /&gt;&lt;br /&gt;An international publishing sensation, Stieg Larsson\xe2\x80\x99s The Girl with the Dragon Tattoo combines murder mystery, family saga, love story, and financial intrigue into one satisfyingly complex and entertainingly atmospheric novel.&lt;br /&gt;&lt;br /&gt;Alternate Cover Edition ISBN 0307269752 (ISBN13: 9780307269751)</description>\n
+				<authors>\n
+					<author>\n
+						<id>706255</id>\n
+						<name>Stieg Larsson</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1595150953p5/706255.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1595150953p2/706255.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/706255.Stieg_Larsson]]></link>\n
+						<average_rating>4.16</average_rating>\n
+						<ratings_count>4328786</ratings_count>\n
+						<text_reviews_count>151715</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2008</published>\n
+				<work><id>1708725</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.7ksJCdPTE2YtspMmFaxK_A</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:30:13 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:30:14 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505947092]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505947092]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505947004</id>\n    
+			<book>\n  
+				<id type="integer">41817486</id>\n  
+				<isbn>0393341763</isbn>\n  
+				<isbn13>9780393341768</isbn13>\n  
+				<text_reviews_count type="integer">909</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.lMddr7LF8QEzfaAqkZPAfg</uri>\n  
+				<title>A Clockwork Orange</title>\n  
+				<title_without_series>A Clockwork Orange</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549260060l/41817486._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549260060l/41817486._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/41817486-a-clockwork-orange</link>\n  
+				<num_pages>240</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>W. W. Norton &amp; Company</publisher>\n  
+				<publication_day>21</publication_day>\n  
+				<publication_year>2019</publication_year>\n  
+				<publication_month>5</publication_month>\n  
+				<average_rating>3.99</average_rating>\n  
+				<ratings_count>604559</ratings_count>\n  
+				<description>In Anthony Burgess\'s influential nightmare vision of the future, criminals take over after dark. Teen gang leader Alex narrates in fantastically inventive slang that echoes the violent intensity of youth rebelling against society. Dazzling and transgressive, &lt;em&gt;A Clockwork Orange&lt;/em&gt; is a frightening fable about good and evil and the meaning of human freedom. This edition includes the controversial last chapter not published in the first edition, and Burgess\xe2\x80\x99s introduction, \xe2\x80\x9cA Clockwork Orange Resucked.\xe2\x80\x9d</description>\n
+				<authors>\n
+					<author>\n
+						<id>5735</id>\n
+						<name>Anthony Burgess</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1484769559p5/5735.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1484769559p2/5735.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/5735.Anthony_Burgess]]></link>\n
+						<average_rating>4.00</average_rating>\n
+						<ratings_count>677702</ratings_count>\n
+						<text_reviews_count>17891</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2019</published>\n
+				<work><id>23596</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.Jt780CrmQooAn5DkYMh5nA</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:30:09 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:30:10 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505947004]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505947004]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505946856</id>\n    
+			<book>\n  
+				<id type="integer">168668</id>\n  
+				<isbn>0684833395</isbn>\n  
+				<isbn13>9780684833392</isbn13>\n  
+				<text_reviews_count type="integer">15702</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.bnDiMekj5pk1csnAkoPABw</uri>\n  
+				<title>Catch-22 (Catch-22, #1)</title>\n  
+				<title_without_series>Catch-22</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/168668.Catch_22</link>\n  
+				<num_pages>453</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Simon &amp; Schuster </publisher>\n  
+				<publication_day>4</publication_day>\n  
+				<publication_year>2004</publication_year>\n  
+				<publication_month>9</publication_month>\n  
+				<average_rating>3.98</average_rating>\n  
+				<ratings_count>726526</ratings_count>\n  
+				<description>The novel is set during World War II, from 1942 to 1944. It mainly follows the life of Captain John Yossarian, a U.S. Army Air Forces B-25 bombardier. Most of the events in the book occur while the fictional 256th Squadron is based on the island of Pianosa, in the Mediterranean Sea, west of Italy. The novel looks into the experiences of Yossarian and the other airmen in the camp, who attempt to maintain their sanity while fulfilling their service requirements so that they may return home.</description>\n
+				<authors>\n
+					<author>\n
+						<id>3167</id>\n
+						<name>Joseph Heller</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1197308614p5/3167.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1197308614p2/3167.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/3167.Joseph_Heller]]></link>\n
+						<average_rating>3.96</average_rating>\n
+						<ratings_count>749361</ratings_count>\n
+						<text_reviews_count>19958</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2004</published>\n
+				<work><id>814330</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.TGfOLXjds8UOkVpgIJnfFg</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:30:03 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:30:04 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505946856]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505946856]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505946751</id>\n    
+			<book>\n  
+				<id type="integer">4981</id>\n  
+				<isbn>0385333846</isbn>\n  
+				<isbn13>9780385333849</isbn13>\n  
+				<text_reviews_count type="integer">20380</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.3PjByO7V9VPpBzAd9jOwpQ</uri>\n  
+				<title>Slaughterhouse-Five</title>\n  
+				<title_without_series>Slaughterhouse-Five</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606208827l/4981._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606208827l/4981._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/4981.Slaughterhouse_Five</link>\n  
+				<num_pages>275</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Dial Press</publisher>\n  
+				<publication_day>12</publication_day>\n  
+				<publication_year>1999</publication_year>\n  
+				<publication_month>1</publication_month>\n  
+				<average_rating>4.08</average_rating>\n  
+				<ratings_count>1134930</ratings_count>\n  
+				<description>Selected by the Modern Library as one of the 100 best novels of all time, Slaughterhouse-Five, an American classic, is one of the world\'s great antiwar books. Centering on the infamous firebombing of Dresden, Billy Pilgrim\'s odyssey through time reflects the mythic journey of our own fractured lives as we search for meaning in what we fear most.</description>\n
+				<authors>\n
+					<author>\n
+						<id>2778055</id>\n
+						<name>Kurt Vonnegut Jr.</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1433582280p5/2778055.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1433582280p2/2778055.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_]]></link>\n
+						<average_rating>4.06</average_rating>\n
+						<ratings_count>2505351</ratings_count>\n
+						<text_reviews_count>82448</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>1999</published>\n
+				<work><id>1683562</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.uo3EThst9_tVM3ViTvvfZQ</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:29:59 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:30:00 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505946751]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505946751]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505946465</id>\n    
+			<book>\n  
+				<id type="integer">18114322</id>\n  
+				<isbn>067001690X</isbn>\n  
+				<isbn13>9780670016907</isbn13>\n  
+				<text_reviews_count type="integer">5301</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.83NjLckYn5vH9Gf7AdtIQQ</uri>\n  
+				<title>The Grapes of Wrath</title>\n  
+				<title_without_series>The Grapes of Wrath</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575l/18114322._SY160_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575l/18114322._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath</link>\n  
+				<num_pages>479</num_pages>\n  
+				<format>Hardcover</format>\n  
+				<edition_information>75th Anniversary Edition</edition_information>\n  
+				<publisher>Viking</publisher>\n  
+				<publication_day>10</publication_day>\n  
+				<publication_year>2014</publication_year>\n  
+				<publication_month>4</publication_month>\n  
+				<average_rating>3.97</average_rating>\n  
+				<ratings_count>754337</ratings_count>\n  
+				<description>The Pulitzer Prize-winning epic of the Great Depression, a book that galvanized\xe2\x80\x94and sometimes outraged\xe2\x80\x94millions of readers.&lt;br /&gt;&lt;br /&gt;First published in 1939, Steinbeck\xe2\x80\x99s Pulitzer Prize-winning epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads\xe2\x80\x94driven from their homestead and forced to travel west to the promised land of California. Out of their trials and their repeated collisions against the hard realities of an America divided into Haves and Have-Nots evolves a drama that is intensely human yet majestic in its scale and moral vision, elemental yet plainspoken, tragic but ultimately stirring in its human dignity. A portrait of the conflict between the powerful and the powerless, of one man\xe2\x80\x99s fierce reaction to injustice, and of one woman\xe2\x80\x99s stoical strength, the novel captures the horrors of the Great Depression and probes into the very nature of equality and justice in America. At once a naturalistic epic, captivity narrative, road novel, and transcendental gospel, Steinbeck\xe2\x80\x99s powerful landmark novel is perhaps the most American of American Classics.</description>\n
+				<authors>\n
+					<author>\n
+						<id>585</id>\n
+						<name>John Steinbeck</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1182118389p5/585.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1182118389p2/585.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>\n
+						<average_rating>3.94</average_rating>\n
+						<ratings_count>3779726</ratings_count>\n
+						<text_reviews_count>107291</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2014</published>\n
+				<work><id>2931549</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.KLxsHwrns90ziRPAgXak1g</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:29:47 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:29:48 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505946465]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505946465]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505945622</id>\n    
+			<book>\n  
+				<id type="integer">5129</id>\n  
+				<isbn>0060929871</isbn>\n  
+				<isbn13>9780060929879</isbn13>\n  
+				<text_reviews_count type="integer">22101</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.-kk1f25jPWvQSYx7iIvZgQ</uri>\n  
+				<title>Brave New World</title>\n  
+				<title_without_series>Brave New World</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/5129.Brave_New_World</link>\n  
+				<num_pages>288</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>HarperPerennial / Perennial Classics</publisher>\n  
+				<publication_day>1</publication_day>\n  
+				<publication_year>1998</publication_year>\n  
+				<publication_month>9</publication_month>\n  
+				<average_rating>3.99</average_rating>\n  
+				<ratings_count>1450556</ratings_count>\n  
+				<description>Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning that are combined to make a dystopian society which is challenged by only a single individual: the story\'s protagonist.</description>\n
+				<authors>\n
+					<author>\n
+						<id>3487</id>\n
+						<name>Aldous Huxley</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1547138835p5/3487.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1547138835p2/3487.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/3487.Aldous_Huxley]]></link>\n
+						<average_rating>3.99</average_rating>\n
+						<ratings_count>1741801</ratings_count>\n
+						<text_reviews_count>40645</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>1998</published>\n
+				<work><id>3204877</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.Sm_a8GGh77Rw99ImSVfoTA</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:29:11 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:29:12 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505945622]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505945622]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505945363</id>\n    
+			<book>\n  
+				<id type="integer">12296</id>\n  
+				<isbn>0142437263</isbn>\n  
+				<isbn13>9780142437261</isbn13>\n  
+				<text_reviews_count type="integer">11012</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.qdXWV3xUoZoexLUHv_p2vQ</uri>\n  
+				<title>The Scarlet Letter</title>\n  
+				<title_without_series>The Scarlet Letter</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404810944l/12296._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404810944l/12296._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/12296.The_Scarlet_Letter</link>\n  
+				<num_pages>279</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>Penguin Classics</edition_information>\n  
+				<publisher>Penguin Books</publisher>\n  
+				<publication_day>27</publication_day>\n  
+				<publication_year>2003</publication_year>\n  
+				<publication_month>2</publication_month>\n  
+				<average_rating>3.41</average_rating>\n  
+				<ratings_count>709680</ratings_count>\n  
+				<description>Nathaniel Hawthorne\'s THE SCARLET LETTER reaches to our nation\'s historical and moral roots for the material of great tragedy. Set in an early New England colony, the novel shows the terrible impact a single, passionate act has on the lives of three members of the community: the defiant Hester Prynne; the fiery, tortured Reverend Dimmesdale; and the obsessed, vengeful Chillingworth.&lt;br /&gt;&lt;br /&gt;With THE SCARLET LETTER, Hawthorne became the first American novelist to forge from our Puritan heritage a universal classic, a masterful exploration of humanity\'s unending struggle with sin, guilt and pride.</description>\n
+				<authors>\n
+					<author>\n
+						<id>7799</id>\n
+						<name>Nathaniel Hawthorne</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1291476587p5/7799.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1291476587p2/7799.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/7799.Nathaniel_Hawthorne]]></link>\n
+						<average_rating>3.45</average_rating>\n
+						<ratings_count>832954</ratings_count>\n
+						<text_reviews_count>23031</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2003</published>\n
+				<work><id>4925227</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.MZ8WUz6D_Bci-6lAuWoupg</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:29:01 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:29:03 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505945363]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505945363]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505945057</id>\n    
+			<book>\n  
+				<id type="integer">13079982</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">7217</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.t_QHIvTlavta-Y2of512_w</uri>\n  
+				<title>Fahrenheit 451</title>\n  
+				<title_without_series>Fahrenheit 451</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/13079982-fahrenheit-451</link>\n  
+				<num_pages>194</num_pages>\n  
+				<format></format>\n  
+				<edition_information>60th Anniversary Edition</edition_information>\n  
+				<publisher>Simon &amp; Schuster</publisher>\n  
+				<publication_day>29</publication_day>\n  
+				<publication_year>2011</publication_year>\n  
+				<publication_month>11</publication_month>\n  
+				<average_rating>3.99</average_rating>\n  
+				<ratings_count>1693649</ratings_count>\n  
+				<description>Guy Montag is a fireman. In his world, where television rules and literature is on the brink of extinction, firemen start fires rather than put them out. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden.&lt;br /&gt;&lt;br /&gt;Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television \'family\'. But then he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people did not live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television.&lt;br /&gt;&lt;br /&gt;When Mildred attempts suicide and Clarisse suddenly disappears, Montag begins to question everything he has ever known.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1630</id>\n
+						<name>Ray Bradbury</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1445955959p5/1630.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1445955959p2/1630.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1630.Ray_Bradbury]]></link>\n
+						<average_rating>4.01</average_rating>\n
+						<ratings_count>2421504</ratings_count>\n
+						<text_reviews_count>93959</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2011</published>\n
+				<work><id>1272463</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.Gc35TQN16pcDHysc-gwWBg</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:28:49 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:50 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505945057]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505945057]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505944921</id>\n    
+			<book>\n  
+				<id type="integer">890</id>\n  
+				<isbn>0142000671</isbn>\n  
+				<isbn13>9780142000670</isbn13>\n  
+				<text_reviews_count type="integer">27327</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.qtwvMU3sqr2Wph0NOU770w</uri>\n  
+				<title>Of Mice and Men</title>\n  
+				<title_without_series>Of Mice and Men</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302904l/890._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302904l/890._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/890.Of_Mice_and_Men</link>\n  
+				<num_pages>103</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>Steinbeck Centennial Edition, US / CAN Edition</edition_information>\n  
+				<publisher>Penguin Books</publisher>\n  
+				<publication_day>8</publication_day>\n  
+				<publication_year>2002</publication_year>\n  
+				<publication_month>1</publication_month>\n  
+				<average_rating>3.88</average_rating>\n  
+				<ratings_count>1952745</ratings_count>\n  
+				<description>The compelling story of two outsiders striving to find their place in an unforgiving world. &lt;br /&gt;&lt;br /&gt;Drifters in search of work, George and his simple-minded friend Lennie have nothing in the world except each other and a dream -- a dream that one day they will have some land of their own. Eventually they find work on a ranch in California\xe2\x80\x99s Salinas Valley, but their hopes are doomed as Lennie, struggling against extreme cruelty, misunderstanding and feelings of jealousy, becomes a victim of his own strength. &lt;br /&gt;&lt;br /&gt;Tackling universal themes such as the friendship of a shared vision, and giving voice to America\xe2\x80\x99s lonely and dispossessed, &lt;i&gt;Of Mice and Men&lt;/i&gt; has proved one of Steinbeck\xe2\x80\x99s most popular works, achieving success as a novel, a Broadway play and three acclaimed films.</description>\n
+				<authors>\n
+					<author>\n
+						<id>585</id>\n
+						<name>John Steinbeck</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1182118389p5/585.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1182118389p2/585.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>\n
+						<average_rating>3.94</average_rating>\n
+						<ratings_count>3779726</ratings_count>\n
+						<text_reviews_count>107291</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2002</published>\n
+				<work><id>40283</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.eBaTt5IH0gu2aaYbJLCgog</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:28:42 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:43 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505944921]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505944921]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505944872</id>\n    
+			<book>\n  
+				<id type="integer">157993</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">24963</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.UOzV_dE308M_I5mJxsCmsA</uri>\n  
+				<title>The Little Prince</title>\n  
+				<title_without_series>The Little Prince</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/157993.The_Little_Prince</link>\n  
+				<num_pages>93</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Harcourt, Inc.</publisher>\n  
+				<publication_day>29</publication_day>\n  
+				<publication_year>2000</publication_year>\n  
+				<publication_month>6</publication_month>\n  
+				<average_rating>4.31</average_rating>\n  
+				<ratings_count>1378650</ratings_count>\n  
+				<description>A PBS Great American Read Top 100 Pick&lt;br /&gt;&lt;br /&gt;Few stories are as widely read and as universally cherished by children and adults alike as The Little Prince. Richard Howard\'s translation of the beloved classic beautifully reflects Saint-Exup\xc3\xa9ry\'s unique and gifted style. Howard, an acclaimed poet and one of the preeminent translators of our time, has excelled in bringing the English text as close as possible to the French, in language, style, and most important, spirit. The artwork in this edition has been restored to match in detail and in color Saint-Exup\xc3\xa9ry\'s original artwork. Combining Richard Howard\'s translation with restored original art, this definitive English-language edition of The Little Prince will capture the hearts of readers of all ages.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1020792</id>\n
+						<name>Antoine de Saint-Exup\xc3\xa9ry</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1330853515p5/1020792.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1330853515p2/1020792.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry]]></link>\n
+						<average_rating>4.30</average_rating>\n
+						<ratings_count>1416008</ratings_count>\n
+						<text_reviews_count>43131</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2000</published>\n
+				<work><id>2180358</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.F958pAbwgIwD68AA4MkC3A</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:28:40 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:41 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505944872]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505944872]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505944558</id>\n    
+			<book>\n  
+				<id type="integer">16299</id>\n  
+				<isbn>0312330871</isbn>\n  
+				<isbn13>9780312330873</isbn13>\n  
+				<text_reviews_count type="integer">21947</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.B3ScjZoNWl2tWncHpYuZXQ</uri>\n  
+				<title>And Then There Were None</title>\n  
+				<title_without_series>And Then There Were None</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391120695l/16299._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391120695l/16299._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/16299.And_Then_There_Were_None</link>\n  
+				<num_pages>264</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>St. Martin\'s Press</publisher>\n  
+				<publication_day>3</publication_day>\n  
+				<publication_year>2004</publication_year>\n  
+				<publication_month>5</publication_month>\n  
+				<average_rating>4.26</average_rating>\n  
+				<ratings_count>833219</ratings_count>\n  
+				<description>First, there were ten\xe2\x80\x94a curious assortment of strangers summoned as weekend guests to a little private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they\'re unwilling to reveal\xe2\x80\x94and a secret that will seal their fate. For each has been marked for murder. A famous nursery rhyme is framed and hung in every room of the mansion:&lt;br /&gt;&lt;br /&gt;"Ten little boys went out to dine; One choked his little self and then there were nine. Nine little boys sat up very late; One overslept himself and then there were eight. Eight little boys traveling in Devon; One said he\'d stay there then there were seven. Seven little boys chopping up sticks; One chopped himself in half and then there were six. Six little boys playing with a hive; A bumblebee stung one and then there were five. Five little boys going in for law; One got in Chancery and then there were four. Four little boys going out to sea; A red herring swallowed one and then there were three. Three little boys walking in the zoo; A big bear hugged one and then there were two. Two little boys sitting in the sun; One got frizzled up and then there was one. One little boy left all alone; He went out and hanged himself and then there were none."&lt;br /&gt;&lt;br /&gt;When they realize that murders are occurring as described in the rhyme, terror mounts. One by one they fall prey. Before the weekend is out, there will be none. Who has choreographed this dastardly scheme? And who will be left to tell the tale? Only the dead are above suspicion.</description>\n
+				<authors>\n
+					<author>\n
+						<id>123715</id>\n
+						<name>Agatha Christie</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1589991473p5/123715.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1589991473p2/123715.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>\n
+						<average_rating>4.01</average_rating>\n
+						<ratings_count>4227701</ratings_count>\n
+						<text_reviews_count>222094</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2004</published>\n
+				<work><id>3038872</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.hWShtivcYkXeCixPrSSLqA</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:28:26 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:26 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505944558]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505944558]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505944451</id>\n    
+			<book>\n  
+				<id type="integer">7624</id>\n  
+				<isbn>0140283331</isbn>\n  
+				<isbn13>9780140283334</isbn13>\n  
+				<text_reviews_count type="integer">28189</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.kSnNl4MoBUSPb-pSSfaVZQ</uri>\n  
+				<title>Lord of the Flies</title>\n  
+				<title_without_series>Lord of the Flies</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/7624.Lord_of_the_Flies</link>\n  
+				<num_pages>182</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>Penguin Great Books of the 20th Century</edition_information>\n  
+				<publisher>Penguin Books </publisher>\n  
+				<publication_day>1</publication_day>\n  
+				<publication_year>1999</publication_year>\n  
+				<publication_month>10</publication_month>\n  
+				<average_rating>3.69</average_rating>\n  
+				<ratings_count>2275803</ratings_count>\n  
+				<description>At the dawn of the next world war, a plane crashes on an uncharted island, stranding a group of schoolboys. At first, with no adult supervision, their freedom is something to celebrate; this far from civilization the boys can do anything they want. Anything. They attempt to forge their own society, failing, however, in the face of terror, sin and evil. And as order collapses, as strange howls echo in the night, as terror begins its reign, the hope of adventure seems as far from reality as the hope of being rescued. Labeled a parable, an allegory, a myth, a morality tale, a parody, a political treatise, even a vision of the apocalypse, Lord of the Flies is perhaps our most memorable novel about \xe2\x80\x9cthe end of innocence, the darkness of man\xe2\x80\x99s heart.\xe2\x80\x9d</description>\n
+				<authors>\n
+					<author>\n
+						<id>306</id>\n
+						<name>William Golding</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1198342496p5/306.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1198342496p2/306.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>\n
+						<average_rating>3.69</average_rating>\n
+						<ratings_count>2297580</ratings_count>\n
+						<text_reviews_count>39470</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>1999</published>\n
+				<work><id>2766512</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.mylCQ2vLQs_kZba8SrXsZg</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:28:20 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:21 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505944451]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505944451]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505944250</id>\n    
+			<book>\n  
+				<id type="integer">5107</id>\n  
+				<isbn>0316769177</isbn>\n  
+				<isbn13>9780316769174</isbn13>\n  
+				<text_reviews_count type="integer">46295</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ</uri>\n  
+				<title>The Catcher in the Rye</title>\n  
+				<title_without_series>The Catcher in the Rye</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye</link>\n  
+				<num_pages>277</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>First Back Bay Paperback Edition (US/CAN)</edition_information>\n  
+				<publisher>Back Bay Books</publisher>\n  
+				<publication_day>30</publication_day>\n  
+				<publication_year>2001</publication_year>\n  
+				<publication_month>1</publication_month>\n  
+				<average_rating>3.81</average_rating>\n  
+				<ratings_count>2751831</ratings_count>\n  
+				<description>The hero-narrator of &lt;i&gt;The Catcher in the Rye&lt;/i&gt; is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. The boy himself is at once too simple and too complex for us to make any final comment about him or his story. Perhaps the safest thing we can say about Holden is that he was born in the world not just strongly attracted to beauty but, almost, hopelessly impaled on it. There are many voices in this novel: children\'s voices, adult voices, underground voices-but Holden\'s voice is the most eloquent of all. Transcending his own vernacular, yet remaining marvelously faithful to it, he issues a perfectly articulated cry of mixed pain and pleasure. However, like most lovers and clowns and poets of the higher orders, he keeps most of the pain to, and for, himself. The pleasure he gives away, or sets aside, with all his heart. It is there for the reader who can handle it to keep. &lt;br /&gt;&lt;br /&gt;J.D. Salinger\'s classic novel of teenage angst and rebellion was first published in 1951. The novel was included on &lt;i&gt;Time&lt;/i&gt;\'s 2005 list of the 100 best English-language novels written since 1923. It was named by Modern Library and its readers as one of the 100 best English-language novels of the 20th century. It has been frequently challenged in the court for its liberal use of profanity and portrayal of sexuality and in the 1950\'s and 60\'s it was the novel that every teenage boy wants to read.</description>\n
+				<authors>\n
+					<author>\n
+						<id>819789</id>\n
+						<name>J.D. Salinger</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1288777679p5/819789.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1288777679p2/819789.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>\n
+						<average_rating>3.84</average_rating>\n
+						<ratings_count>3143672</ratings_count>\n
+						<text_reviews_count>72076</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2001</published>\n
+				<work><id>3036731</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.YHa4gac7IHvOiAUZkxSmsg</uri>\n
+				</work></book>\n\n\n  
+			<rating>5</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:28:11 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:11 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505944250]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505944250]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505944126</id>\n    
+			<book>\n  
+				<id type="integer">38447</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">51248</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.QYIb80P3mP0A4pXX0ucI6A</uri>\n  
+				<title>The Handmaid\'s Tale (The Handmaid\'s Tale, #1)</title>\n  
+				<title_without_series>The Handmaid\'s Tale</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale</link>\n  
+				<num_pages>314</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>1st Anchor Books edition</edition_information>\n  
+				<publisher>Anchor Books</publisher>\n  
+				<publication_day/>\n  
+				<publication_year>1998</publication_year>\n  
+				<publication_month>4</publication_month>\n  
+				<average_rating>4.11</average_rating>\n  
+				<ratings_count>1472939</ratings_count>\n  
+				<description>Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Commander and his wife once a day to walk to food markets whose signs are now pictures instead of words because women are no longer allowed to read. She must lie on her back once a month and pray that the Commander makes her pregnant, because in an age of declining births, Offred and the other Handmaids are valued only if their ovaries are viable. Offred can remember the years before, when she lived and made love with her husband, Luke; when she played with and protected her daughter; when she had a job, money of her own, and access to knowledge. But all of that is gone now . . . &lt;br /&gt;&lt;br /&gt;Funny, unexpected, horrifying, and altogether convincing, &lt;i&gt;The Handmaid\'s Tale&lt;/i&gt; is at once scathing satire, dire warning, and tour de force.</description>\n
+				<authors>\n
+					<author>\n
+						<id>3472</id>\n
+						<name>Margaret Atwood</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1282859073p5/3472.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1282859073p2/3472.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/3472.Margaret_Atwood]]></link>\n
+						<average_rating>4.03</average_rating>\n
+						<ratings_count>2808694</ratings_count>\n
+						<text_reviews_count>176750</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>1998</published>\n
+				<work><id>1119185</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.C3iSrQ9DOvG8o6BBrFoi4w</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:28:06 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:06 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505944126]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505944126]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505943991</id>\n    
+			<book>\n  
+				<id type="integer">40961427</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">11480</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.zhUOQmSWRGKlQ7eRG3QkRw</uri>\n  
+				<title>1984</title>\n  
+				<title_without_series>1984</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX50_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/40961427-1984</link>\n  
+				<num_pages>237</num_pages>\n  
+				<format>Kindle Edition</format>\n  
+				<edition_information/>\n  
+				<publisher>Houghton Mifflin Harcourt</publisher>\n  
+				<publication_day>3</publication_day>\n  
+				<publication_year>2013</publication_year>\n  
+				<publication_month>9</publication_month>\n  
+				<average_rating>4.19</average_rating>\n  
+				<ratings_count>3168875</ratings_count>\n  
+				<description>Among the seminal texts of the 20th century, &lt;i&gt;Nineteen Eighty-Four&lt;/i&gt; is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell\'s nightmarish vision of a totalitarian, bureaucratic world and one poor stiff\'s attempt to find individuality. The brilliance of the novel is Orwell\'s prescience of modern life\xe2\x80\x94the ubiquity of television, the distortion of the language\xe2\x80\x94and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.</description>\n
+				<authors>\n
+					<author>\n
+						<id>3706</id>\n
+						<name>George Orwell</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1588856560p5/3706.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1588856560p2/3706.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>\n
+						<average_rating>4.08</average_rating>\n
+						<ratings_count>6362166</ratings_count>\n
+						<text_reviews_count>146873</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2013</published>\n
+				<work><id>153313</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:27:59 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:28:00 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505943991]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505943991]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505943681</id>\n    
+			<book>\n  
+				<id type="integer">4671</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">54297</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.Rka-Q5n8mdEE6GzuIQRElQ</uri>\n  
+				<title>The Great Gatsby</title>\n  
+				<title_without_series>The Great Gatsby</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/4671.The_Great_Gatsby</link>\n  
+				<num_pages>200</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information>US / CAN</edition_information>\n  
+				<publisher>Scribner</publisher>\n  
+				<publication_day/>\n  
+				<publication_year>2004</publication_year>\n  
+				<publication_month>9</publication_month>\n  
+				<average_rating>3.92</average_rating>\n  
+				<ratings_count>3799579</ratings_count>\n  
+				<description>Alternate Cover Edition ISBN: 0743273567 (ISBN13: &lt;a href="https://www.goodreads.com/book/show/41733839-the-great-gatsby" rel="nofollow noopener"&gt;9780743273565&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;The Great Gatsby, F. Scott Fitzgerald\'s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story is of the fabulously wealthy Jay Gatsby and his new love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted "gin was the national drink and sex the national obsession," it is an exquisitely crafted tale of America in the 1920s.&lt;br /&gt;&lt;br /&gt;The Great Gatsby is one of the great classics of twentieth-century literature.&lt;br /&gt;(back cover)</description>\n
+				<authors>\n
+					<author>\n
+						<id>3190</id>\n
+						<name>F. Scott Fitzgerald</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1517864008p5/3190.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1517864008p2/3190.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>\n
+						<average_rating>3.91</average_rating>\n
+						<ratings_count>4178559</ratings_count>\n
+						<text_reviews_count>90746</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2004</published>\n
+				<work><id>245494</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.56BQMsZ2-7G__6NkMx9vWg</uri>\n
+				</work></book>\n\n\n  
+			<rating>3</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:27:46 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:27:47 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505943681]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505943681]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505943556</id>\n    
+			<book>\n  
+				<id type="integer">170448</id>\n  
+				<isbn>0451526341</isbn>\n  
+				<isbn13>9780451526342</isbn13>\n  
+				<text_reviews_count type="integer">9263</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.OPL1L19jvyFEvtyxeIp2CQ</uri>\n  
+				<title>Animal Farm</title>\n  
+				<title_without_series>Animal Farm</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570l/170448._SY160_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570l/170448._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/170448.Animal_Farm</link>\n  
+				<num_pages>141</num_pages>\n  
+				<format>Mass Market Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Signet Classics</publisher>\n  
+				<publication_day/>\n  
+				<publication_year>1996</publication_year>\n  
+				<publication_month>4</publication_month>\n  
+				<average_rating>3.95</average_rating>\n  
+				<ratings_count>2761907</ratings_count>\n  
+				<description>&lt;i&gt;Librarian\'s note: There is an Alternate Cover Edition for this edition of this book &lt;a href="https://www.goodreads.com/book/show/13456059-animal-farm" rel="nofollow noopener"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned \xe2\x80\x93a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible. &lt;br /&gt;When &lt;i&gt;Animal Farm&lt;/i&gt; was first published, Stalinist Russia was seen as its target. Today it is devastatingly clear that wherever and whenever freedom is attacked, under whatever banner, the cutting clarity and savage comedy of George Orwell\xe2\x80\x99s masterpiece have a meaning and message still ferociously fresh.</description>\n
+				<authors>\n
+					<author>\n
+						<id>3706</id>\n
+						<name>George Orwell</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1588856560p5/3706.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1588856560p2/3706.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>\n
+						<average_rating>4.08</average_rating>\n
+						<ratings_count>6362166</ratings_count>\n
+						<text_reviews_count>146873</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>1996</published>\n
+				<work><id>2207778</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.V_MbIpN8vLdVjldwRz26LA</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:27:40 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:27:41 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505943556]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505943556]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n    
+		<review>\n  
+			<id>3505943441</id>\n    
+			<book>\n  
+				<id type="integer">2657</id>\n  
+				<isbn nil="true"/>\n  
+				<isbn13 nil="true"/>\n  
+				<text_reviews_count type="integer">72674</text_reviews_count>\n  
+				<uri>kca://book/amzn1.gr.book.v1.n0CD0ECMpxCldCqzG72KSQ</uri>\n  
+				<title>To Kill a Mockingbird</title>\n  
+				<title_without_series>To Kill a Mockingbird</title_without_series>\n  
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SX98_.jpg</image_url>\n  
+				<small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SY75_.jpg</small_image_url>\n  
+				<large_image_url/>\n  
+				<link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>\n  
+				<num_pages>324</num_pages>\n  
+				<format>Paperback</format>\n  
+				<edition_information/>\n  
+				<publisher>Harper Perennial Modern Classics </publisher>\n  
+				<publication_day>23</publication_day>\n  
+				<publication_year>2006</publication_year>\n  
+				<publication_month>5</publication_month>\n  
+				<average_rating>4.28</average_rating>\n  
+				<ratings_count>4532398</ratings_count>\n  
+				<description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>\n
+				<authors>\n
+					<author>\n
+						<id>1825</id>\n
+						<name>Harper Lee</name>\n
+						<role></role>\n
+						<image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1593873322p5/1825.jpg]]>\n
+						</image_url>\n
+						<small_image_url nophoto=\'false\'>\n
+							<![CDATA[https://images.gr-assets.com/authors/1593873322p2/1825.jpg]]>\n
+						</small_image_url>\n
+						<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>\n
+						<average_rating>4.23</average_rating>\n
+						<ratings_count>4786020</ratings_count>\n
+						<text_reviews_count>122487</text_reviews_count>\n
+					</author>\n
+				</authors>\n  
+				<published>2006</published>\n
+				<work><id>3275794</id>\n  
+					<uri>kca://work/amzn1.gr.work.v1.bBuiCknnVtCo2qKc86WVjw</uri>\n
+				</work></book>\n\n\n  
+			<rating>4</rating>\n  
+			<votes>0</votes>\n  
+			<spoiler_flag>false</spoiler_flag>\n  
+			<spoilers_state>none</spoilers_state>\n  \n\n
+			<shelves>\n    
+				<shelf name="read" exclusive="true" id="389481028" review_shelf_id= ""/>\n\n
+			</shelves>\n\n  
+			<recommended_for></recommended_for>\n  
+			<recommended_by></recommended_by>\n  
+			<started_at></started_at>\n  
+			<read_at></read_at>\n  
+			<date_added>Thu Aug 20 08:27:36 -0700 2020</date_added>\n  
+			<date_updated>Thu Aug 20 08:27:36 -0700 2020</date_updated>\n  
+			<read_count>1</read_count>\n  
+			<body>\n  </body>\n\n  \n\n  
+			<comments_count>0</comments_count>\n    
+			<url><![CDATA[https://www.goodreads.com/review/show/3505943441]]></url>\n  
+			<link><![CDATA[https://www.goodreads.com/review/show/3505943441]]></link>\n    
+			<owned>0</owned>\n
+		</review>\n\n
+	</reviews>\n\n
+</GoodreadsResponse>\n'

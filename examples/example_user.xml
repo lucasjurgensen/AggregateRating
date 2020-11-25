@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>\n
+<GoodreadsResponse>\n  
+	<Request>\n    
+		<authentication>true</authentication>\n      
+		<key><![CDATA[qcXIjujzhYVHOFU4SszgQ]]></key>\n    
+		<method><![CDATA[user_show]]></method>\n  
+	</Request>\n  
+	<user>\n  
+		<id>120182276</id>\n  
+		<name>Lucas Jurgensen</name>\n  
+		<user_name></user_name>\n  
+		<link><![CDATA[https://www.goodreads.com/user/show/120182276-lucas-jurgensen]]></link>\n  
+		<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>\n  
+		<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>\n    
+		<about></about>\n    
+		<age></age>\n    
+		<gender></gender>\n    
+		<location>Lexington, MA</location>\n    
+		<website></website>\n    
+		<joined>08/2020</joined>\n    
+		<last_active>11/2020</last_active>\n    
+		<interests></interests>\n    
+		<favorite_books></favorite_books>\n    
+		<favorite_authors>\n    </favorite_authors>\n    
+		<updates_rss_url><![CDATA[https://www.goodreads.com/user/updates_rss/120182276?key=oSwZ7z-kpusU0nBGjqanJ3O_6COrmfVVX4GFhe7P6z4DUry3]]></updates_rss_url>\n    
+		<reviews_rss_url><![CDATA[https://www.goodreads.com/review/list_rss/120182276?key=oSwZ7z-kpusU0nBGjqanJ3O_6COrmfVVX4GFhe7P6z4DUry3&shelf=%23ALL%23]]></reviews_rss_url>\n    
+		<friends_count type="integer">0</friends_count>\n    
+		<groups_count>0</groups_count>\n    
+		<reviews_count type="integer">46</reviews_count>\n    
+		<user_shelves type="array">\n  
+			<user_shelf>\n    
+				<id type="integer">389481028</id>\n    
+				<name>read</name>\n    
+				<book_count type="integer">36</book_count>\n    
+				<exclusive_flag type="boolean">true</exclusive_flag>\n    
+				<sort nil="true"/>\n    
+				<order nil="true"/>\n    
+				<per_page type="integer" nil="true"/>\n    
+				<display_fields></display_fields>\n    
+				<featured type="boolean">true</featured>\n    
+				<recommend_for type="boolean">false</recommend_for>\n    
+				<sticky type="boolean" nil="true"/>\n  
+			</user_shelf>\n  
+			<user_shelf>\n    
+				<id type="integer">389481027</id>\n    
+				<name>currently-reading</name>\n    
+				<book_count type="integer">0</book_count>\n    
+				<exclusive_flag type="boolean">true</exclusive_flag>\n    
+				<sort nil="true"/>\n    
+				<order nil="true"/>\n    
+				<per_page type="integer" nil="true"/>\n    
+				<display_fields></display_fields>\n    
+				<featured type="boolean">false</featured>\n    
+				<recommend_for type="boolean">false</recommend_for>\n    
+				<sticky type="boolean" nil="true"/>\n  
+			</user_shelf>\n  
+			<user_shelf>\n    
+				<id type="integer">389481025</id>\n    
+				<name>to-read</name>\n    
+				<book_count type="integer">9</book_count>\n    
+				<exclusive_flag type="boolean">true</exclusive_flag>\n    
+				<sort nil="true"/>\n    
+				<order nil="true"/>\n    
+				<per_page type="integer" nil="true"/>\n    
+				<display_fields></display_fields>\n    
+				<featured type="boolean">false</featured>\n    
+				<recommend_for type="boolean">true</recommend_for>\n    
+				<sticky type="boolean" nil="true"/>\n  
+			</user_shelf>\n
+		</user_shelves>\n      
+		<updates type="array">\n      
+			<update type="review">\n      
+				<action_text><![CDATA[gave 5 stars to <a href="https://www.goodreads.com/book/show/43798285-the-institute">The Institute (Hardcover)</a> by <a href="https://www.goodreads.com/author/show/3389.Stephen_King">Stephen King</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/review/show/3536923657</link>\n      
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SY75_.jpg</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Mon, 07 Sep 2020 13:30:43 -0700</updated_at>\n          
+				<action type="rating">\n            
+					<rating>5</rating>\n          
+				</action>\n        
+				<object>\n          
+					<book>\n            
+						<id>43798285</id>\n            
+						<title>The Institute</title>\n            
+						<link>https://www.goodreads.com/book/show/43798285-the-institute</link>\n            
+						<authors>\n
+							<author>\n
+								<id>3389</id>\n
+								<name>Stephen King</name>\n
+								<role></role>\n
+								<image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1362814142p5/3389.jpg]]>\n
+								</image_url>\n
+								<small_image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1362814142p2/3389.jpg]]>\n
+								</small_image_url>\n
+								<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>\n
+								<average_rating>4.04</average_rating>\n
+								<ratings_count>14786929</ratings_count>\n
+								<text_reviews_count>591230</text_reviews_count>\n
+							</author>\n
+						</authors>\n          
+					</book>\n        
+				</object>\n    
+			</update>\n      
+			<update type="review">\n      
+				<action_text><![CDATA[gave 3 stars to <a href="https://www.goodreads.com/book/show/8130077-the-screwtape-letters">The Screwtape Letters (Kindle Edition)</a> by <a href="https://www.goodreads.com/author/show/1069006.C_S_Lewis">C.S. Lewis</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/review/show/3506022447</link>\n      
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476379778l/8130077._SY75_.jpg</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:26:39 -0700</updated_at>\n          
+				<action type="rating">\n            
+					<rating>3</rating>\n          
+				</action>\n        
+				<object>\n          
+					<book>\n            
+						<id>8130077</id>\n            
+						<title>The Screwtape Letters</title>\n            
+						<link>https://www.goodreads.com/book/show/8130077-the-screwtape-letters</link>\n            
+						<authors>\n
+							<author>\n
+								<id>1069006</id>\n
+								<name>C.S. Lewis</name>\n
+								<role></role>\n
+								<image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1564671804p5/1069006.jpg]]>\n
+								</image_url>\n
+								<small_image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1564671804p2/1069006.jpg]]>\n
+								</small_image_url>\n
+								<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>\n
+								<average_rating>4.15</average_rating>\n
+								<ratings_count>5969297</ratings_count>\n
+								<text_reviews_count>139022</text_reviews_count>\n
+							</author>\n
+						</authors>\n          
+					</book>\n        
+				</object>\n    
+			</update>\n      
+			<update type="readstatus">\n      
+				<action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/3506017944">A Brief History of Time</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/read_statuses/3824373073</link>\n      
+				<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:22:38 -0700</updated_at>\n        
+				<object>\n          
+					<read_status>\n  
+						<id type="integer">3824373073</id>\n  
+						<review_id type="integer">3506017944</review_id>\n  
+						<user_id type="integer">120182276</user_id>\n  
+						<old_status nil="true"/>\n  
+						<status>to-read</status>\n  
+						<updated_at type="datetime">2020-08-20T16:22:38+00:00</updated_at>\n  
+						<review>\n    
+							<id type="integer">3506017944</id>\n    
+							<user_id type="integer">120182276</user_id>\n    
+							<book_id type="integer">3869</book_id>\n    
+							<rating type="integer">0</rating>\n    
+							<read_status>to-read</read_status>\n    
+							<sell_flag type="boolean">false</sell_flag>\n    
+							<review nil="true"/>\n    
+							<recommendation nil="true"/>\n    
+							<read_at type="datetime" nil="true"/>\n    
+							<updated_at type="datetime">2020-08-20T16:22:38+00:00</updated_at>\n    
+							<created_at type="datetime">2020-08-20T16:22:37+00:00</created_at>\n    
+							<comments_count type="integer">0</comments_count>\n    
+							<weight type="integer">0</weight>\n    
+							<ratings_sum type="integer">0</ratings_sum>\n    
+							<ratings_count type="integer">0</ratings_count>\n    
+							<spoiler_flag type="boolean">false</spoiler_flag>\n    
+							<recommender_user_id1 type="integer">0</recommender_user_id1>\n    
+							<recommender_user_name1 nil="true"/>\n    
+							<work_id type="integer">2192250</work_id>\n    
+							<last_comment_at type="datetime" nil="true"/>\n    
+							<started_at type="datetime" nil="true"/>\n    
+							<hidden_flag type="boolean">false</hidden_flag>\n    
+							<language_code type="integer" nil="true"/>\n    
+							<last_revision_at type="datetime">2020-08-20T16:22:38+00:00</last_revision_at>\n    
+							<non_friends_rating_count type="integer">0</non_friends_rating_count>\n    
+							<encrypted_notes nil="true"/>\n    
+							<book_uri>kca://book/amzn1.gr.book.v1.tMtwVV4SCdc6-pqZtkrHOQ</book_uri>\n    
+							<notes nil="true"/>\n    
+							<book>\n      
+								<id type="integer">3869</id>\n      
+								<work_id type="integer">2192250</work_id>\n      
+								<isbn>0553380168</isbn>\n      
+								<isbn13>9780553380163</isbn13>\n      
+								<title>A Brief History of Time</title>\n      
+								<sort_by_title>brief history of time, a</sort_by_title>\n      
+								<author_id type="integer">1401</author_id>\n      
+								<author_role nil="true"/>\n      
+								<asin nil="true"/>\n      
+								<description nil="true"/>\n      
+								<format>Paperback</format>\n      
+								<publication_year type="integer">1998</publication_year>\n      
+								<publication_month type="integer">9</publication_month>\n      
+								<publication_day type="integer">1</publication_day>\n      
+								<num_pages type="integer">212</num_pages>\n      
+								<publisher>Bantam Books</publisher>\n      
+								<language_code>eng</language_code>\n      
+								<edition_information>Updated &amp; Expanded 10th Anniversary</edition_information>\n      
+								<url nil="true"/>\n      
+								<source_url nil="true"/>\n      
+								<image_uploaded_at type="datetime">2012-04-04T22:32:26+00:00</image_uploaded_at>\n      
+								<s3_image_at type="datetime">2015-05-16T14:51:31+00:00</s3_image_at>\n      
+								<reviews_count type="integer">643292</reviews_count>\n      
+								<ratings_sum type="integer">1147141</ratings_sum>\n      
+								<ratings_count type="integer">274529</ratings_count>\n      
+								<text_reviews_count type="integer">6579</text_reviews_count>\n      
+								<book_authors_count type="integer">-2</book_authors_count>\n      
+								<updated_at type="datetime">2020-11-23T09:01:10+00:00</updated_at>\n      
+								<created_at type="datetime">2006-12-06T01:04:51+00:00</created_at>\n      
+								<author_id_updater_user_id type="integer">-50</author_id_updater_user_id>\n      
+								<author_role_updater_user_id type="integer">1</author_role_updater_user_id>\n      
+								<description_updater_user_id type="integer">66648866</description_updater_user_id>\n      
+								<edition_information_updater_user_id type="integer">974210</edition_information_updater_user_id>\n      
+								<format_updater_user_id type="integer">-50</format_updater_user_id>\n      
+								<image_updater_user_id type="integer">-50</image_updater_user_id>\n      
+								<isbn_updater_user_id type="integer">-50</isbn_updater_user_id>\n      
+								<isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>\n      
+								<language_updater_user_id type="integer">32651275</language_updater_user_id>\n      
+								<num_pages_updater_user_id type="integer">1344613</num_pages_updater_user_id>\n      
+								<publication_date_updater_user_id type="integer">1344613</publication_date_updater_user_id>\n      
+								<publisher_updater_user_id type="integer">66648866</publisher_updater_user_id>\n      
+								<title_updater_user_id type="integer">66648866</title_updater_user_id>\n      
+								<url_updater_user_id type="integer" nil="true"/>\n      
+								<title_language_code nil="true"/>\n      
+								<publisher_language_code nil="true"/>\n      
+								<description_language_code nil="true"/>\n      
+								<asin_updater_user_id type="integer" nil="true"/>\n      
+								<book_uri>kca://book/amzn1.gr.book.v1.tMtwVV4SCdc6-pqZtkrHOQ</book_uri>\n      
+								<author>\n        
+									<id type="integer">1401</id>\n        
+									<name>Stephen Hawking</name>\n        
+									<updated_at type="datetime">2020-11-24T00:57:48+00:00</updated_at>\n        
+									<created_at type="datetime">2006-10-02T18:39:56+00:00</created_at>\n        
+									<image_uploaded_at type="datetime">2019-05-10T13:02:20+00:00</image_uploaded_at>\n        
+									<user_id type="integer" nil="true"/>\n        
+									<gender>M</gender>\n        
+									<country_code>GB</country_code>\n        
+									<born_at type="date">1942-01-08</born_at>\n        
+									<died_at type="date">2018-03-14</died_at>\n        
+									<about>Stephen William Hawking was born on 8 January 1942 in Oxford, England. His parents\' house was in north London, but during the second world war Oxford was considered a safer place to have babies. When he was eight, his family moved to St Albans, a town about 20 miles north of London. At eleven Stephen went to St Albans School, and then on to University College, Oxford, his father\'s old college. Stephen wanted to do Mathematics, although his father would have preferred medicine. Mathematics was not available at University College, so he did Physics instead. After three years and not very much work he was awarded a first class honours degree in Natural Science.\r\n\r\nStephen then went on to Cambridge to do research in Cosmology, there being no-one working in that area in Oxford at the time. His supervisor was Denis Sciama, although he had hoped to get Fred Hoyle who was working in Cambridge. After gaining his Ph.D. he became first a Research Fellow, and later on a Professorial Fellow at Gonville and Caius College. After leaving the Institute of Astronomy in 1973 Stephen came to the Department of Applied Mathematics and Theoretical Physics, and since 1979 has held the post of Lucasian Professor of Mathematics. The chair was founded in 1663 with money left in the will of the Reverend Henry Lucas, who had been the Member of Parliament for the University. It was first held by Isaac Barrow, and then in 1669 by Isaac Newton.\r\n\r\nStephen Hawking worked on the basic laws which govern the universe. With Roger Penrose he showed that Einstein\'s General Theory of Relativity implied space and time would have a beginning in the Big Bang and an end in black holes. These results indicated it was necessary to unify General Relativity with Quantum Theory, the other great Scientific development of the first half of the 20th Century. One consequence of such a unification that he discovered was that black holes should not be completely black, but should emit radiation and eventually evaporate and disappear. Another conjecture is that the universe has no edge or boundary in imaginary time. This would imply that the way the universe began was completely determined by the laws of science.\r\n\r\nHis many publications include The Large Scale Structure of Spacetime with G.F.R.  Ellis, General Relativity: An Einstein Centenary Survey, with W. Israel, and 300 Years of Gravity, with W. Israel. Stephen Hawking has three popular books published; his best seller A Brief History of Time, Black Holes and Baby Universes and Other Essays and most recently in 2001, The Universe in a Nutshell. \r\n\r\nProfessor Hawking received twelve honorary degrees, was awarded the CBE in 1982, and was made a Companion of Honour in 1989. He was the recipient of many awards, medals and prizes and is a Fellow of The Royal Society and a Member of the US National Academy of Sciences.</about>\n        
+									<uploader_user_id type="integer">42535</uploader_user_id>\n        
+									<image_copyright>https://laregionenlinea.com.mx/los-grandes-descubrimientos-de-stephen-hawking/</image_copyright>\n        
+									<influences></influences>\n        
+									<url>http://www.hawking.org.uk</url>\n        
+									<genre1>Science</genre1>\n        
+									<genre2>Non-fiction</genre2>\n        
+									<genre3></genre3>\n        
+									<books_count type="integer">1516</books_count>\n        
+									<reviews_count type="integer">1420727</reviews_count>\n        
+									<ratings_sum type="integer">2348325</ratings_sum>\n        
+									<works_count type="integer">65</works_count>\n        
+									<hometown>Oxford</hometown>\n        
+									<rating_dist>5:7252|4:10083|3:5771|2:1030|1:177|total:24313</rating_dist>\n        
+									<s3_image_at type="datetime" nil="true"/>\n        
+									<ratings_count type="integer">564373</ratings_count>\n        
+									<text_reviews_count type="integer">22012</text_reviews_count>\n        
+									<author_program_at type="datetime" nil="true"/>\n        
+									<best_book_id type="integer">3869</best_book_id>\n        
+									<sort_by_name>hawking, stephen</sort_by_name>\n        
+									<shelf_display_name>Hawking, Stephen</shelf_display_name>\n        
+									<author_uri>kca://author/amzn1.gr.author.v1.Bme6xsflpk9GgeGYxJTSBQ</author_uri>\n      
+								</author>\n    
+							</book>\n  
+						</review>\n
+					</read_status>\n\n        
+				</object>\n    
+			</update>\n      
+			<update type="review">\n      
+				<action_text><![CDATA[gave 5 stars to <a href="https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time">The Curious Incident of the Dog in the Night-Time (Paperback)</a> by <a href="https://www.goodreads.com/author/show/1050.Mark_Haddon">Mark Haddon</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/review/show/3506015916</link>\n      
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY75_.jpg</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:21:41 -0700</updated_at>\n          
+				<action type="rating">\n            
+					<rating>5</rating>\n          
+				</action>\n        
+				<object>\n          
+					<book>\n            
+						<id>1618</id>\n            
+						<title><![CDATA[The Curious Incident of the Dog in the Night-Time]]></title>\n            
+						<link>https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time</link>\n            
+						<authors>\n
+							<author>\n
+								<id>1050</id>\n
+								<name>Mark Haddon</name>\n
+								<role></role>\n
+								<image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1337988298p5/1050.jpg]]>\n
+								</image_url>\n
+								<small_image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1337988298p2/1050.jpg]]>\n
+								</small_image_url>\n
+								<link><![CDATA[https://www.goodreads.com/author/show/1050.Mark_Haddon]]></link>\n
+								<average_rating>3.86</average_rating>\n
+								<ratings_count>1263301</ratings_count>\n
+								<text_reviews_count>52494</text_reviews_count>\n
+							</author>\n
+						</authors>\n          
+					</book>\n        
+				</object>\n    
+			</update>\n      
+			<update type="review">\n      
+				<action_text><![CDATA[gave 3 stars to <a href="https://www.goodreads.com/book/show/19063.The_Book_Thief">The Book Thief (Hardcover)</a> by <a href="https://www.goodreads.com/author/show/11466.Markus_Zusak">Markus Zusak</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/review/show/3506015822</link>\n      
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY75_.jpg</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:21:37 -0700</updated_at>\n          
+				<action type="rating">\n            
+					<rating>3</rating>\n          
+				</action>\n        
+				<object>\n          
+					<book>\n            
+						<id>19063</id>\n            
+						<title>The Book Thief</title>\n            
+						<link>https://www.goodreads.com/book/show/19063.The_Book_Thief</link>\n            
+						<authors>\n
+							<author>\n
+								<id>11466</id>\n
+								<name>Markus Zusak</name>\n
+								<role></role>\n
+								<image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1537240528p5/11466.jpg]]>\n
+								</image_url>\n
+								<small_image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1537240528p2/11466.jpg]]>\n
+								</small_image_url>\n
+								<link><![CDATA[https://www.goodreads.com/author/show/11466.Markus_Zusak]]></link>\n
+								<average_rating>4.34</average_rating>\n
+								<ratings_count>2032581</ratings_count>\n
+								<text_reviews_count>134881</text_reviews_count>\n
+							</author>\n
+						</authors>\n          
+					</book>\n        
+				</object>\n    
+			</update>\n      
+			<update type="review">\n      
+				<action_text><![CDATA[gave 3 stars to <a href="https://www.goodreads.com/book/show/4214.Life_of_Pi">Life of Pi (Paperback)</a> by <a href="https://www.goodreads.com/author/show/811.Yann_Martel">Yann Martel</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/review/show/3506015710</link>\n      
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320562005l/4214._SY75_.jpg</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:21:31 -0700</updated_at>\n          
+				<action type="rating">\n            
+					<rating>3</rating>\n          
+				</action>\n        
+				<object>\n          
+					<book>\n            
+						<id>4214</id>\n            
+						<title>Life of Pi</title>\n            
+						<link>https://www.goodreads.com/book/show/4214.Life_of_Pi</link>\n            
+						<authors>\n
+							<author>\n
+								<id>811</id>\n
+								<name>Yann Martel</name>\n
+								<role></role>\n
+								<image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1454012903p5/811.jpg]]>\n
+								</image_url>\n
+								<small_image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1454012903p2/811.jpg]]>\n
+								</small_image_url>\n
+								<link><![CDATA[https://www.goodreads.com/author/show/811.Yann_Martel]]></link>\n
+								<average_rating>3.90</average_rating>\n
+								<ratings_count>1389799</ratings_count>\n
+								<text_reviews_count>53894</text_reviews_count>\n
+							</author>\n
+						</authors>\n          
+					</book>\n        
+				</object>\n    
+			</update>\n      
+			<update type="review">\n      
+				<action_text><![CDATA[gave 5 stars to <a href="https://www.goodreads.com/book/show/77203.The_Kite_Runner">The Kite Runner (Paperback)</a> by <a href="https://www.goodreads.com/author/show/569.Khaled_Hosseini">Khaled Hosseini</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/review/show/3506015414</link>\n      
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753l/77203._SY75_.jpg</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:21:19 -0700</updated_at>\n          
+				<action type="rating">\n            
+					<rating>5</rating>\n          
+				</action>\n        
+				<object>\n          
+					<book>\n            
+						<id>77203</id>\n            
+						<title>The Kite Runner</title>\n            
+						<link>https://www.goodreads.com/book/show/77203.The_Kite_Runner</link>\n            
+						<authors>\n
+							<author>\n
+								<id>569</id>\n
+								<name>Khaled Hosseini</name>\n
+								<role></role>\n
+								<image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1359753468p5/569.jpg]]>\n
+								</image_url>\n
+								<small_image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1359753468p2/569.jpg]]>\n
+								</small_image_url>\n
+								<link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>\n
+								<average_rating>4.30</average_rating>\n
+								<ratings_count>3992918</ratings_count>\n
+								<text_reviews_count>164352</text_reviews_count>\n
+							</author>\n
+						</authors>\n          
+					</book>\n        
+				</object>\n    
+			</update>\n      
+			<update type="review">\n      
+				<action_text><![CDATA[gave 4 stars to <a href="https://www.goodreads.com/book/show/3228917-outliers">Outliers: The Story of Success (Hardcover)</a> by <a href="https://www.goodreads.com/author/show/1439.Malcolm_Gladwell">Malcolm Gladwell</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/review/show/3506015250</link>\n      
+				<image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX50_.jpg</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:21:11 -0700</updated_at>\n          
+				<action type="rating">\n            
+					<rating>4</rating>\n          
+				</action>\n        
+				<object>\n          
+					<book>\n            
+						<id>3228917</id>\n            
+						<title><![CDATA[Outliers: The Story of Success]]></title>\n            
+						<link>https://www.goodreads.com/book/show/3228917-outliers</link>\n            
+						<authors>\n
+							<author>\n
+								<id>1439</id>\n
+								<name>Malcolm Gladwell</name>\n
+								<role></role>\n
+								<image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1564001739p5/1439.jpg]]>\n
+								</image_url>\n
+								<small_image_url nophoto=\'false\'>\n
+									<![CDATA[https://images.gr-assets.com/authors/1564001739p2/1439.jpg]]>\n
+								</small_image_url>\n
+								<link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>\n
+								<average_rating>4.01</average_rating>\n
+								<ratings_count>2147747</ratings_count>\n
+								<text_reviews_count>84776</text_reviews_count>\n
+							</author>\n
+						</authors>\n          
+					</book>\n        
+				</object>\n    
+			</update>\n      
+			<update type="readstatus">\n      
+				<action_text><![CDATA[has read <a only_path="false" href="https://www.goodreads.com/review/show/3506015822">The Book Thief</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/read_statuses/3824370310</link>\n      
+				<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:21:05 -0700</updated_at>\n        
+				<object>\n          
+					<read_status>\n  
+						<id type="integer">3824370310</id>\n  
+						<review_id type="integer">3506015822</review_id>\n  
+						<user_id type="integer">120182276</user_id>\n  
+						<old_status nil="true"/>\n  
+						<status>read</status>\n  
+						<updated_at type="datetime">2020-08-20T16:21:05+00:00</updated_at>\n  
+						<review>\n    
+							<id type="integer">3506015822</id>\n    
+							<user_id type="integer">120182276</user_id>\n    
+							<book_id type="integer">19063</book_id>\n    
+							<rating type="integer">3</rating>\n    
+							<read_status>read</read_status>\n    
+							<sell_flag type="boolean">false</sell_flag>\n    
+							<review nil="true"/>\n    
+							<recommendation nil="true"/>\n    
+							<read_at type="datetime" nil="true"/>\n    
+							<updated_at type="datetime">2020-08-20T16:21:06+00:00</updated_at>\n    
+							<created_at type="datetime">2020-08-20T16:21:05+00:00</created_at>\n    
+							<comments_count type="integer">0</comments_count>\n    
+							<weight type="integer">0</weight>\n    
+							<ratings_sum type="integer">0</ratings_sum>\n    
+							<ratings_count type="integer">0</ratings_count>\n    
+							<spoiler_flag type="boolean">false</spoiler_flag>\n    
+							<recommender_user_id1 type="integer">0</recommender_user_id1>\n    
+							<recommender_user_name1 nil="true"/>\n    
+							<work_id type="integer">878368</work_id>\n    
+							<last_comment_at type="datetime" nil="true"/>\n    
+							<started_at type="datetime" nil="true"/>\n    
+							<hidden_flag type="boolean">false</hidden_flag>\n    
+							<language_code type="integer" nil="true"/>\n    
+							<last_revision_at type="datetime">2020-08-20T16:21:06+00:00</last_revision_at>\n    
+							<non_friends_rating_count type="integer">0</non_friends_rating_count>\n    
+							<encrypted_notes nil="true"/>\n    
+							<book_uri>kca://book/amzn1.gr.book.v1.A1zfLKejdNPkLkjfE8LN8Q</book_uri>\n    
+							<notes nil="true"/>\n    
+							<book>\n      
+								<id type="integer">19063</id>\n      
+								<work_id type="integer">878368</work_id>\n      
+								<isbn>0375831002</isbn>\n      
+								<isbn13>9780375831003</isbn13>\n      
+								<title>The Book Thief</title>\n      
+								<sort_by_title>book thief, the</sort_by_title>\n      
+								<author_id type="integer">11466</author_id>\n      
+								<author_role nil="true"/>\n      
+								<asin nil="true"/>\n      
+								<description>&lt;i&gt;Librarian\'s note: An alternate cover edition can be found [book:here|41048862]&lt;/i&gt;\r\n\r\nIt is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.\r\n\r\nBy her brother\'s graveside, Liesel\'s life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger\'s Handbook, left behind there by accident, and it is her first act of book thievery. So begins a love affair with books and words, as Liesel, with the help of her accordian-playing foster father, learns to read. Soon she is stealing books from Nazi book-burnings, the mayor\'s wife\'s library, wherever there are books to be found.\r\n\r\nBut these are dangerous times. When Liesel\'s foster family hides a Jew in their basement, Liesel\'s world is both opened up, and closed down.\r\n\r\nIn superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.\r\n\r\n(Note: this title was not published as YA fiction)</description>\n      
+								<format>Hardcover</format>\n      
+								<publication_year type="integer">2006</publication_year>\n      
+								<publication_month type="integer">3</publication_month>\n      
+								<publication_day type="integer">14</publication_day>\n      
+								<num_pages type="integer">552</num_pages>\n      
+								<publisher>Alfred A. Knopf</publisher>\n      
+								<language_code>eng</language_code>\n      
+								<edition_information>First American Edition</edition_information>\n      
+								<url nil="true"/>\n      
+								<source_url nil="true"/>\n      
+								<image_uploaded_at type="datetime">2018-03-27T13:30:26+00:00</image_uploaded_at>\n      
+								<s3_image_at type="datetime">2018-03-27T13:30:29+00:00</s3_image_at>\n      
+								<reviews_count type="integer">3049075</reviews_count>\n      
+								<ratings_sum type="integer">7204930</ratings_sum>\n      
+								<ratings_count type="integer">1649609</ratings_count>\n      
+								<text_reviews_count type="integer">90727</text_reviews_count>\n      
+								<book_authors_count type="integer">-1</book_authors_count>\n      
+								<updated_at type="datetime">2020-11-23T09:01:37+00:00</updated_at>\n      
+								<created_at type="datetime">2006-12-27T03:10:36+00:00</created_at>\n      
+								<author_id_updater_user_id type="integer">-51</author_id_updater_user_id>\n      
+								<author_role_updater_user_id type="integer">2942657</author_role_updater_user_id>\n      
+								<description_updater_user_id type="integer">18868296</description_updater_user_id>\n      
+								<edition_information_updater_user_id type="integer">87835420</edition_information_updater_user_id>\n      
+								<format_updater_user_id type="integer">10054249</format_updater_user_id>\n      
+								<image_updater_user_id type="integer">4628840</image_updater_user_id>\n      
+								<isbn_updater_user_id type="integer">2665705</isbn_updater_user_id>\n      
+								<isbn13_updater_user_id type="integer">2665705</isbn13_updater_user_id>\n      
+								<language_updater_user_id type="integer">1396651</language_updater_user_id>\n      
+								<num_pages_updater_user_id type="integer">3633211</num_pages_updater_user_id>\n      
+								<publication_date_updater_user_id type="integer">-51</publication_date_updater_user_id>\n      
+								<publisher_updater_user_id type="integer">66648866</publisher_updater_user_id>\n      
+								<title_updater_user_id type="integer">66648866</title_updater_user_id>\n      
+								<url_updater_user_id type="integer" nil="true"/>\n      
+								<title_language_code nil="true"/>\n      
+								<publisher_language_code nil="true"/>\n      
+								<description_language_code nil="true"/>\n      
+								<asin_updater_user_id type="integer" nil="true"/>\n      
+								<book_uri>kca://book/amzn1.gr.book.v1.A1zfLKejdNPkLkjfE8LN8Q</book_uri>\n      
+								<author>\n        
+									<id type="integer">11466</id>\n        
+									<name>Markus Zusak</name>\n        
+									<updated_at type="datetime">2020-11-24T01:01:26+00:00</updated_at>\n        
+									<created_at type="datetime">2006-12-27T03:09:57+00:00</created_at>\n        
+									<image_uploaded_at type="datetime">2018-09-18T03:15:28+00:00</image_uploaded_at>\n        
+									<user_id type="integer">5856960</user_id>\n        
+									<gender>M</gender>\n        
+									<country_code>AU</country_code>\n        
+									<born_at type="date">1975-06-23</born_at>\n        
+									<died_at type="datetime" nil="true"/>\n        
+									<about>Markus Zusak is the author of five books, including the international bestseller, &lt;b&gt;&lt;i&gt;The Book Thief&lt;/i&gt;&lt;/b&gt;, which spent more than a decade on the New York Times bestseller list, and is translated into more than forty languages \xe2\x80\x93 establishing Zusak as one of the most successful authors to come out of Australia.\r\n\r\nTo date, Zusak has held the number one position at Amazon.com, Amazon.co.uk, the New York Times bestseller list, as well as in countries across South America, Europe and Asia. \r\n\r\nHis books, &lt;b&gt;&lt;i&gt;The Underdog, Fighting Ruben Wolfe, When Dogs Cry&lt;/i&gt;&lt;/b&gt; (also titled &lt;b&gt;&lt;i&gt;Getting the Girl&lt;/i&gt;&lt;/b&gt;), &lt;b&gt;&lt;i&gt;The Messenger&lt;/i&gt;&lt;/b&gt; (or &lt;b&gt;&lt;i&gt;I am the Messenger&lt;/i&gt;&lt;/b&gt;) and &lt;b&gt;&lt;i&gt;The Book Thief&lt;/i&gt;&lt;/b&gt; have been awarded numerous honours ranging from literary prizes to readers choice awards to prizes voted on by booksellers.\r\n\r\nZusak\xe2\x80\x99s much-anticipated new novel, &lt;b&gt;&lt;i&gt;Bridge of Clay&lt;/i&gt;&lt;/b&gt;, is set for release in October 2018 in the USA, the UK and Australia, with foreign translations to follow.</about>\n        
+									<uploader_user_id type="integer">5856960</uploader_user_id>\n        
+									<image_copyright>Hugh Stewart</image_copyright>\n        
+									<influences></influences>\n        
+									<url>http://www.zusakbooks.com</url>\n        
+									<genre1>Literature &amp; Fiction</genre1>\n        
+									<genre2>Young-adult</genre2>\n        
+									<genre3></genre3>\n        
+									<books_count type="integer">812</books_count>\n        
+									<reviews_count type="integer">3844075</reviews_count>\n        
+									<ratings_sum type="integer">8815686</ratings_sum>\n        
+									<works_count type="integer">19</works_count>\n        
+									<hometown>Sydney</hometown>\n        
+									<rating_dist>5:58765|4:36723|3:13737|2:3417|1:1439|total:114081</rating_dist>\n        
+									<s3_image_at type="datetime" nil="true"/>\n        
+									<ratings_count type="integer">2032581</ratings_count>\n        
+									<text_reviews_count type="integer">134881</text_reviews_count>\n        
+									<author_program_at type="datetime">2011-07-25T21:17:44+00:00</author_program_at>\n        
+									<best_book_id type="integer">19063</best_book_id>\n        
+									<sort_by_name>zusak, markus</sort_by_name>\n        
+									<shelf_display_name>Zusak, Markus</shelf_display_name>\n        
+									<author_uri>kca://author/amzn1.gr.author.v1.xZWzeD0E_f3aP8Qv-PICmA</author_uri>\n      
+								</author>\n    
+							</book>\n  
+						</review>\n
+					</read_status>\n\n        
+				</object>\n    
+			</update>\n      
+			<update type="readstatus">\n      
+				<action_text><![CDATA[has read <a only_path="false" href="https://www.goodreads.com/review/show/3506015710">Life of Pi</a>]]></action_text>\n      
+				<link>https://www.goodreads.com/read_statuses/3824370168</link>\n      
+				<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n        
+				<actor>\n  
+					<id type="integer">120182276</id>\n  
+					<name>Lucas Jurgensen</name>\n  
+					<image_url>https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png</image_url>\n  
+					<link>https://www.goodreads.com/user/show/120182276-lucas-jurgensen</link>\n
+				</actor>\n      
+				<updated_at>Thu, 20 Aug 2020 09:21:00 -0700</updated_at>\n        
+				<object>\n          
+					<read_status>\n  
+						<id type="integer">3824370168</id>\n  
+						<review_id type="integer">3506015710</review_id>\n  
+						<user_id type="integer">120182276</user_id>\n  
+						<old_status nil="true"/>\n  
+						<status>read</status>\n  
+						<updated_at type="datetime">2020-08-20T16:21:00+00:00</updated_at>\n  
+						<review>\n    
+							<id type="integer">3506015710</id>\n    
+							<user_id type="integer">120182276</user_id>\n    
+							<book_id type="integer">4214</book_id>\n    
+							<rating type="integer">3</rating>\n    
+							<read_status>read</read_status>\n    
+							<sell_flag type="boolean">false</sell_flag>\n    
+							<review nil="true"/>\n    
+							<recommendation nil="true"/>\n    
+							<read_at type="datetime" nil="true"/>\n    
+							<updated_at type="datetime">2020-08-20T16:21:00+00:00</updated_at>\n    
+							<created_at type="datetime">2020-08-20T16:20:59+00:00</created_at>\n    
+							<comments_count type="integer">0</comments_count>\n    
+							<weight type="integer">0</weight>\n    
+							<ratings_sum type="integer">0</ratings_sum>\n    
+							<ratings_count type="integer">0</ratings_count>\n    
+							<spoiler_flag type="boolean">false</spoiler_flag>\n    
+							<recommender_user_id1 type="integer">0</recommender_user_id1>\n    
+							<recommender_user_name1 nil="true"/>\n    
+							<work_id type="integer">1392700</work_id>\n    
+							<last_comment_at type="datetime" nil="true"/>\n    
+							<started_at type="datetime" nil="true"/>\n    
+							<hidden_flag type="boolean">false</hidden_flag>\n    
+							<language_code type="integer" nil="true"/>\n    
+							<last_revision_at type="datetime">2020-08-20T16:21:00+00:00</last_revision_at>\n    
+							<non_friends_rating_count type="integer">0</non_friends_rating_count>\n    
+							<encrypted_notes nil="true"/>\n    
+							<book_uri>kca://book/amzn1.gr.book.v1.xDVbF6l_LTfMdTx3ajT_qQ</book_uri>\n    
+							<notes nil="true"/>\n    
+							<book>\n      
+								<id type="integer">4214</id>\n      
+								<work_id type="integer">1392700</work_id>\n      
+								<isbn>0770430074</isbn>\n      
+								<isbn13>9780770430078</isbn13>\n      
+								<title>Life of Pi</title>\n      
+								<sort_by_title>life of pi</sort_by_title>\n      
+								<author_id type="integer">811</author_id>\n      
+								<author_role nil="true"/>\n      
+								<asin nil="true"/>\n      
+								<description nil="true"/>\n      
+								<format>Paperback</format>\n      
+								<publication_year type="integer">2006</publication_year>\n      
+								<publication_month type="integer">8</publication_month>\n      
+								<publication_day type="integer">29</publication_day>\n      
+								<num_pages type="integer">460</num_pages>\n      
+								<publisher>Seal Books</publisher>\n      
+								<language_code>eng</language_code>\n      
+								<edition_information nil="true"/>\n      
+								<url nil="true"/>\n      
+								<source_url nil="true"/>\n      
+								<image_uploaded_at type="datetime">2011-11-06T06:46:45+00:00</image_uploaded_at>\n      
+								<s3_image_at type="datetime">2015-05-16T14:49:42+00:00</s3_image_at>\n      
+								<reviews_count type="integer">1946067</reviews_count>\n      
+								<ratings_sum type="integer">4905954</ratings_sum>\n      
+								<ratings_count type="integer">1253917</ratings_count>\n      
+								<text_reviews_count type="integer">36466</text_reviews_count>\n      
+								<book_authors_count type="integer">0</book_authors_count>\n      
+								<updated_at type="datetime">2020-11-23T09:01:11+00:00</updated_at>\n      
+								<created_at type="datetime">2006-12-06T11:01:30+00:00</created_at>\n      
+								<author_id_updater_user_id type="integer">-50</author_id_updater_user_id>\n      
+								<author_role_updater_user_id type="integer">1217925</author_role_updater_user_id>\n      
+								<description_updater_user_id type="integer">66648866</description_updater_user_id>\n      
+								<edition_information_updater_user_id type="integer" nil="true"/>\n      
+								<format_updater_user_id type="integer">-50</format_updater_user_id>\n      
+								<image_updater_user_id type="integer">-50</image_updater_user_id>\n      
+								<isbn_updater_user_id type="integer">171430</isbn_updater_user_id>\n      
+								<isbn13_updater_user_id type="integer">171430</isbn13_updater_user_id>\n      
+								<language_updater_user_id type="integer">-110</language_updater_user_id>\n      
+								<num_pages_updater_user_id type="integer">5407952</num_pages_updater_user_id>\n      
+								<publication_date_updater_user_id type="integer">-50</publication_date_updater_user_id>\n      
+								<publisher_updater_user_id type="integer">-50</publisher_updater_user_id>\n      
+								<title_updater_user_id type="integer">845495</title_updater_user_id>\n      
+								<url_updater_user_id type="integer" nil="true"/>\n      
+								<title_language_code nil="true"/>\n      
+								<publisher_language_code nil="true"/>\n      
+								<description_language_code nil="true"/>\n      
+								<asin_updater_user_id type="integer" nil="true"/>\n      
+								<book_uri>kca://book/amzn1.gr.book.v1.xDVbF6l_LTfMdTx3ajT_qQ</book_uri>\n      
+								<author>\n        
+									<id type="integer">811</id>\n        
+									<name>Yann Martel</name>\n        
+									<updated_at type="datetime">2020-11-24T01:38:22+00:00</updated_at>\n        
+									<created_at type="datetime">2006-09-09T20:27:34+00:00</created_at>\n        
+									<image_uploaded_at type="datetime">2016-01-28T20:28:23+00:00</image_uploaded_at>\n        
+									<user_id type="integer" nil="true"/>\n        
+									<gender>M</gender>\n        
+									<country_code>ES</country_code>\n        
+									<born_at type="date">1963-06-25</born_at>\n        
+									<died_at type="datetime" nil="true"/>\n        
+									<about>Yann Martel is the author of &lt;i&gt;Life of Pi&lt;/i&gt;, the #1 international bestseller and winner of the 2002 Man Booker (among many other prizes). He is also the award-winning author of &lt;i&gt;The Facts Behind the Helsinki Roccamatios&lt;/i&gt; (winner of the Journey Prize), &lt;i&gt;Self&lt;/i&gt;, &lt;i&gt;Beatrice &amp; Virgil&lt;/i&gt;, and &lt;i&gt;101 Letters to a Prime Minister&lt;/i&gt;. Born in Spain in 1963, Martel studied philosophy at Trent University, worked at odd jobs\xe2\x80\x94tree planter, dishwasher, security guard\xe2\x80\x94and traveled widely before turning to writing. He lives in Saskatoon, Canada, with the writer Alice Kuipers and their four children.\r\n&lt;br&gt;\r\n&lt;a href="http://www.facebook.com/pages/Yann-Martel/337952694514?ref=ts/"&gt; Become a fan&lt;/a&gt; of Yann on Facebook.</about>\n        
+									<uploader_user_id type="integer">603238</uploader_user_id>\n        
+									<image_copyright>Photo Credit: Emma Love. Image provided by publisher.</image_copyright>\n        
+									<influences></influences>\n        
+									<url></url>\n        
+									<genre1>Fiction</genre1>\n        
+									<genre2></genre2>\n        
+									<genre3></genre3>\n        
+									<books_count type="integer">590</books_count>\n        
+									<reviews_count type="integer">2197615</reviews_count>\n        
+									<ratings_sum type="integer">5414348</ratings_sum>\n        
+									<works_count type="integer">12</works_count>\n        
+									<hometown>Salamanca</hometown>\n        
+									<rating_dist>5:44346|4:57645|3:36340|2:13114|1:6510|total:157955</rating_dist>\n        
+									<s3_image_at type="datetime" nil="true"/>\n        
+									<ratings_count type="integer">1389799</ratings_count>\n        
+									<text_reviews_count type="integer">53894</text_reviews_count>\n        
+									<author_program_at type="datetime" nil="true"/>\n        
+									<best_book_id type="integer">4214</best_book_id>\n        
+									<sort_by_name>martel, yann</sort_by_name>\n        
+									<shelf_display_name>Martel, Yann</shelf_display_name>\n        
+									<author_uri>kca://author/amzn1.gr.author.v1.eQXBviNkBhdDjsI3zhUtRg</author_uri>\n      
+								</author>\n    
+							</book>\n  
+						</review>\n
+					</read_status>\n\n        
+				</object>\n    
+			</update>\n
+		</updates>\n    
+		<user_statuses>\n    </user_statuses>\n
+	</user>\n\n
+</GoodreadsResponse>\n'

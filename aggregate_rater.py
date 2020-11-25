@@ -1,5 +1,5 @@
-import urllib3
 import xml.etree.cElementTree as ET
+import api_manager
 
 # Pull in dev key
 f = open("goodreads_key", "r")
@@ -22,11 +22,11 @@ class Book:
         return "{} - {}".format(self.title, self.id)
 
 class Review:
-    book = Book()
+    book = ""
     rating = -1
     text = ""
 
-    __init__(self, _title, _book_id, _rating):
+    def __init__(self, _title, _book_id, _rating):
         self.book = Book(_title, _book_id)
         self.rating = _rating
 
@@ -39,10 +39,9 @@ class User:
 ##################
 # Select Book
 def get_book(search_param="Ender%27s+Game"):
+    manager = api_manager.API_Manager()
     url = "https://www.goodreads.com/search.xml?key={}&q={}".format(dev_key, search_param)
-    http = urllib3.PoolManager()
-    r = http.request('Get', url)
-    string_xml = r.data
+    string_xml = manager.goodreads_get_call(url)
     root = ET.fromstring(string_xml)
 
     # Find the best book based on search
@@ -52,17 +51,16 @@ def get_book(search_param="Ender%27s+Game"):
     print(book)
 
 def get_user_bookshelf_reviews(user_id=120182276):
+    manager = api_manager.API_Manager()
     url = "https://www.goodreads.com/review/list?v=2&id={}&shelf={}&per_page={}&key={}".format(user_id,"read","200",dev_key)
-    http = urllib3.PoolManager()
-    r = http.request('GET', url)
-    string_xml = r.data
+    string_xml = manager.goodreads_get_call(url)
     root = ET.fromstring(string_xml)
     reviews = []
     for review_full in root.find("reviews").findall("review"):
         review = Review(_title=review_full.find("book").find("title").text,
-                        _id=review_full.find("book").find("id").text
-                        review_full.find("rating"))
-        rating = review.find("rating")
+                        _book_id=review_full.find("book").find("id").text,
+                        _rating=review_full.find("rating"))
+        rating = review_full.find("rating")
         reviews.append(review)
     return reviews
 
@@ -74,7 +72,7 @@ def get_user_bookshelf_reviews(user_id=120182276):
 def main():
     get_book()
 
-    get_reviews_for_book()
+    get_user_bookshelf_reviews()
 
 if __name__ == "__main__":
     main()

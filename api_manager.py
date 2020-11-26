@@ -31,7 +31,6 @@ class API_Manager():
             else:
                 waiting = False
         self.last_run = datetime.datetime.now()
-        print(datetime.datetime.now())
         http = urllib3.PoolManager()
         r = http.request('Get', url)
         string_xml = r.data

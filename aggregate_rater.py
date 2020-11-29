@@ -12,34 +12,38 @@ f.close()
 # Definitions
 
 class Book:
-    title = ""
-    id = ""
+    title = "" # type string
+    id = "" # type string
 
     def __init__(self, _title, _id):
         self.title = _title
         self.id = _id
 
+    def __eq__(self, other):
+        # if self.title == "Sharp Objects":
+        #     print(self.id, self.title, "vs", other.id, other.title, self.title == other.title)a
+        return ((self.title == other.title) or (self.id == other.id))
+
     def __repr__(self):
         return "{} - {}".format(self.title, self.id)
 
 class Review:
-    book = ""
-    rating = -1
-    text = ""
+    book = "" # type Book
+    rating = -1 # type int
+    text = "" # type string
 
-    def __init__(self, _title, _book_id, _rating):
-        self.book = Book(_title, _book_id)
+    def __init__(self, _book_title, _book_id, _rating):
+        self.book = Book(_book_title, _book_id)
         self.rating = _rating
 
+    # Equivalence of reviews refers only that they are reviewing the same book
     def __eq__(self, other):
-        return (self.book == other.book and
-                self.rating == other.rating and
-                self.text == other.text)
+        return (self.book == other.book)
 
 class User:
-    name = ""
-    id = ""
-    reviews = []
+    name = "" # type string
+    id = "" # type string
+    reviews = [] # type list of Review
 
     def __init__(self, _name, _id, _reviews):
         self.name = _name
@@ -70,14 +74,12 @@ def get_user_bookshelf_reviews(user_id=120182276):
 
     reviews = []
     for review_full in root.find("reviews").findall("review"):
-        print(review_full.find("book").find("id").text)
-        if 66559 == review_full.find("book").find("id").text:
-            print("made it")
-            review = Review(_title=review_full.find("book").find("title").text,
-                            _book_id=review_full.find("book").find("id").text,
-                            _rating=review_full.find("rating"))
-            # rating = review_full.find("rating")
-            reviews.append(review)
+        # print(review_full.find("book").find("id").text)
+        review = Review(_book_title=review_full.find("book").find("title").text,
+                        _book_id=review_full.find("book").find("id").text,
+                        _rating=review_full.find("rating"))
+        # rating = review_full.find("rating")
+        reviews.append(review)
 
 
     return reviews
@@ -89,7 +91,7 @@ def get_book_overlap_between_users(user_id_1=120182276, user_id_2=1113001):
     user_1_reviews = get_user_bookshelf_reviews(user_id_1)
     user_1 = User("", user_id_1, user_1_reviews)
 
-    print("X")
+    # print("X")
 
     user_2_reviews = get_user_bookshelf_reviews(user_id_2)
     user_2 = User("", user_id_2, user_2_reviews)
@@ -108,7 +110,6 @@ def get_book_overlap_between_users(user_id_1=120182276, user_id_2=1113001):
         if review not in shared:
             user_2_unique.append(review)
 
-    # print(user_1_unique, user_2_unique, shared)
     return (user_1_unique, user_2_unique, shared)
 
 
@@ -119,6 +120,9 @@ def main():
     # get_book_by_title()
     # get_user_bookshelf_reviews()
     (a,b,c) = get_book_overlap_between_users()
+    print(len(a))
+    print(len(b))
+    print(len(c))
     for x in c:
         print(x.book)
 

@@ -3,13 +3,17 @@ import time
 import urllib3
 
 # API Manager for centalizing interractions with the Goodreads API
+
+
 def singleton(cls, *args, **kw):
     instances = {}
+
     def _singleton():
-       if cls not in instances:
+        if cls not in instances:
             instances[cls] = cls(*args, **kw)
-       return instances[cls]
+        return instances[cls]
     return _singleton
+
 
 @singleton
 class API_Manager():
@@ -21,7 +25,7 @@ class API_Manager():
             self.dev_key = f.read()
             last_run = datetime.datetime.now()
 
-    def goodreads_get(self, url):
+    def goodreads_get(self, url, query_params={}):
         waiting = True
         while waiting:
             now = datetime.datetime.now()
@@ -32,6 +36,6 @@ class API_Manager():
                 waiting = False
         self.last_run = datetime.datetime.now()
         http = urllib3.PoolManager()
-        r = http.request('Get', url)
+        r = http.request('Get', url, fields=query_params)
         string_xml = r.data
         return string_xml

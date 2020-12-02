@@ -41,38 +41,49 @@ def crawl_reviews_for_users(reviews_path, reviews_params):
     # iterate over the pages until we see 'no reviews found'
     more_reviews = True
     page = 1
-    while more_reviews:
-        reviews_params['page'] = page
-        html_str = client.goodreads_get(
-            reviews_path, query_params=reviews_params)
-        html_tree = BeautifulSoup(html_str, 'html.parser')
+    reviewer_list = []
 
-        # some janky code to determine if there are no more reviews
-        contents = html_tree.find('div', class_='gr_reviews_showing').contents
-        for content in contents:
-            if 'No reviews found' in content:
-                more_reviews = False
+    #TODO - temporarily only run once
+    # while more_reviews:
 
-        reviewer_elems = html_tree.find_all('span', class_='gr_review_by')
-        for el in reviewer_elems:
+    reviews_params['page'] = page
+    html_str = client.goodreads_get(
+        reviews_path, query_params=reviews_params)
+    html_tree = BeautifulSoup(html_str, 'html.parser')
+
+    # some janky code to determine if there are no more reviews
+    contents = html_tree.find('div', class_='gr_reviews_showing').contents
+    for content in contents:
+        if 'No reviews found' in content:
+            more_reviews = False
+
+    reviewer_elems = html_tree.find_all('span', class_='gr_review_by')
+    x = 0
+    for el in reviewer_elems:
+        if x == 10:
+            break
+        else:
             # look at the 2nd item because the <a> el is preceded by the string 'Reviewed by '
             review_url = el.contents[1]['href']
             review_str = client.goodreads_get(review_url)
-            print(reviewer_from_profile(review_str))
-        page += 1
+            reviewer_list.append(reviewer_from_profile(review_str))
+            # print(reviewer_from_profile(review_str))
+        x += 1
+    page += 1
+
+    return(reviewer_list)
 
 
 def get_reviewers_from_book(book_id, user_id):
     reviews_url = get_reviews_widget(book_id, user_id)
     reviews_path = path_from_url(reviews_url)
     reviews_params = params_from_url(reviews_url)
-    crawl_reviews_for_users(reviews_path, reviews_params)
+    return crawl_reviews_for_users(reviews_path, reviews_params)
 
 
-def main():
-    user_id = 125142460
-    id = 44767458  # id for Dune
-    get_reviewers_from_book(id, user_id)
+def main(book_id = 44767458, user_id = 125142460):
+    # Default to Dune and Lucas' id
+    return get_reviewers_from_book(book_id, user_id)
 
 
 if __name__ == '__main__':
